@@ -1,6 +1,28 @@
 import os
 import HTMLParser, urllib, urlparse
 
+class JargonFile(dict):
+   def __init__(self,*arg,**kw):
+      super(CustomDictOne, self).__init__(*arg, **kw)
+
+   def __getitem__(self, key):
+       val = dict.__getitem__(self, key)
+       print 'GET', key
+       return val
+
+   def __setitem__(self, key, val):
+       print 'SET', key, val
+       dict.__setitem__(self, key, val)
+
+   def __repr__(self):
+       dictrepr = dict.__repr__(self)
+       return '%s(%s)' % (type(self).__name__, dictrepr)
+
+   def update(self, *args, **kwargs):
+       print 'update', args, kwargs
+       for k, v in dict(*args, **kwargs).iteritems():
+           self[k] = v
+
 class JargonParser(HTMLParser.HTMLParser):
     def __init__ (self):
         HTMLParser.HTMLParser.__init__ (self)
@@ -49,7 +71,11 @@ def jargonSaneText(text):
             ctr = ctr + 1
         text = newtext
 
-    return text
+    text = text.replace(' . ','. ')
+    text = text.replace(' .','. ')
+    text = text.replace('  ',' ')
+
+    return text.strip()
 
 def jargonReadFile(filename):
     inFile = open(filename)
