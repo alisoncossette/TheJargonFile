@@ -7,21 +7,49 @@ class JargonParser(HTMLParser.HTMLParser):
         self.seen = {}
         self.currentSection=''
         self.title = ''
+        self.bodyText = ''
     def handle_data(self, data):
-        if self.currentSection is not '':
-            if "head" in self.currentSection:
-                # store the title
-                self.title = data
-                print "Title: " + self.title
-            else:
-                print self.currentSection + ": " + data
-    def handle_endtag(self, tag):
-        if "head" in self.currentSection or "body" in self.currentSection:
-            currentSection = '';
+        if "head" in self.currentSection:
+            # store the title
+            self.title = data
+            self.bodyText = '';
+        elif "body" in self.currentSection:
+            replacements = ['    ','   ','  ','\t','\r','\n']
+            for rep in replacements:
+                data = data.replace(rep,' ')
+            data = data.strip()
+            self.bodyText = self.bodyText + data + ' '
     def handle_starttag(self, tag, attributes):
         if "head" in tag or "body" in tag:
             self.currentSection = tag;
-        #print "Tag: " + tag
+
+def jargonSaneText(text):
+    if len(text) < 2:
+        return ''
+
+    initsplit = text.split(' : ')
+    if len(initsplit) < 2:
+        return ''
+
+    initial = True
+    newtext = ''
+    for txt in initsplit:
+        if not initial:
+            newtext = newtext + txt
+        initial = False
+    text = newtext
+
+    sentsplit = text.split('.')
+    if len(sentsplit) > 1:
+        ctr = 0
+        newtext = ''
+        for sent in sentsplit:
+            if ctr < len(sentsplit)-1:
+                newtext = newtext + sent + '.'
+            ctr = ctr + 1
+        text = newtext
+
+    return text
 
 def jargonReadFile(filename):
     inFile = open(filename)
@@ -30,6 +58,12 @@ def jargonReadFile(filename):
         buffer = buffer + line
     parser = JargonParser()
     parser.feed(buffer)
+    if parser.title is not '' and \
+       parser.bodyText is not '' and \
+       len(parser.title) > 1:
+        parser.bodyText = jargonSaneText(parser.bodyText)
+        print "Title: " + parser.title
+        print "Text: " + parser.bodyText + "\n"
 
 def jargonImport(rootDir):
     for dirName, subdirList, fileList in os.walk(rootDir):
