@@ -28,11 +28,15 @@ def jargonParseEntry(filename):
 # returns the number of sub-definitions within a description
 def jargonSubdefinitions(text):
     definitions = 0
+    prevpos = 0
     for i in range(10):
         definitionStr = str(i+1) + ". "
-        if text.find(definitionStr) == -1:
+        pos = text.find(definitionStr)
+        if pos == -1 or pos < prevpos:
             break
-        definitions = definitions + 1
+        else:
+            definitions = definitions + 1
+            prevpos = pos
 
     if definitions == 0:
         definitions = 1
@@ -40,9 +44,6 @@ def jargonSubdefinitions(text):
     # too many definitions
     if definitions > 5:
         definitions  = 0
-
-#    if definitions > 1:
-#        definitions = definitions - 1
 
     return definitions
 
