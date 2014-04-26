@@ -39,6 +39,9 @@ def jargonToManpage(manpageFilename, entries, version):
     if not os.path.isdir("man"):
         os.system("mkdir man")
 
+    if os.path.isfile(manpageFilename + ".gz"):
+        os.system("rm " + manpageFilename + ".gz")
+
     fp = open(manpageFilename,'w')
 
     fp.write(".TH \"The Jargon File\" 1 \"April 26, 2014\" \"\" \"" + version + "\"\n\n")
@@ -52,7 +55,6 @@ def jargonToManpage(manpageFilename, entries, version):
     fp.close()
 
     os.system("gzip " + manpageFilename)
-    print ""
     print "manpage can be installed with the command:"
     print "sudo install -m 644 " + manpageFilename + ".gz /usr/local/share/man/man1"
 
