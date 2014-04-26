@@ -1,3 +1,5 @@
 scrozzle
 
-/skrozl/ , vt. Used when a self-modifying code segment runs incorrectly and corrupts the running program or vital data.
+/skrozl/ , vt. Used when a self-modifying code segment runs incorrectly and
+corrupts the running program or vital data.
+

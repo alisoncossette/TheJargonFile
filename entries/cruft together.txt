@@ -1,3 +1,8 @@
 cruft together
 
-vt. (also cruft up ) To throw together something ugly but temporarily workable. Like vt. kluge up , but more pejorative. There isn't any program now to reverse all the lines of a file, but I can probably cruft one together in about 10 minutes. See hack together , hack up , kluge up , crufty.
+vt. (also cruft up ) To throw together something ugly but temporarily
+workable. Like vt. kluge up , but more pejorative. There isn't any program
+now to reverse all the lines of a file, but I can probably cruft one
+together in about 10 minutes. See hack together , hack up , kluge up ,
+crufty.
+

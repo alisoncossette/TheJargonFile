@@ -1,3 +1,8 @@
 BogoMIPS
 
-/bogomips/ , n. The number of million times a second a processor can do absolutely nothing. The Linux OS measures BogoMIPS at startup in order to calibrate some soft timing loops that will be used later on; details at the BogoMIPS mini-HOWTO. The name Linus chose, of course, is an ironic comment on the uselessness of all other MIPS figures.
+/bogomips/ , n. The number of million times a second a processor can do
+absolutely nothing. The Linux OS measures BogoMIPS at startup in order to
+calibrate some soft timing loops that will be used later on; details at the
+BogoMIPS mini-HOWTO. The name Linus chose, of course, is an ironic comment
+on the uselessness of all other MIPS figures.
+

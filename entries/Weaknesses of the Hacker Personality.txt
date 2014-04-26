@@ -1,3 +1,47 @@
 Weaknesses of the Hacker Personality
 
-withdrawn, relationally incompetent, sexually frustrated, and desperately unhappy when not submerged in his or her craft. Fortunately, this extreme is far less common than mainstream folklore paints it  but almost all hackers will recognize something of themselves in the unflattering paragraphs above. Hackers are often monumentally disorganized and sloppy about dealing with the physical world. Bills don't get paid on time, clutter piles up to incredible heights in homes and offices, and minor maintenance tasks get deferred indefinitely. 1994-95's fad behavioral disease was a syndrome called Attention Deficit Disorder (ADD), supposedly characterized by (among other things) a combination of short attention span with an ability to hyperfocus imaginatively on interesting tasks. In 1998-1999 another syndrome that is said to overlap with many hacker traits entered popular awareness: Asperger's syndrome (AS). This disorder is also sometimes called high-function autism, though researchers are divided on whether AS is in fact a mild form of autism or a distinct syndrome with a different etiology. AS patients exhibit mild to severe deficits in interpreting facial and body-language cues and in modeling or empathizing with others' emotions. Though some AS patients exhibit mild retardation, others compensate for their deficits with high intelligence and analytical ability, and frequently seek out technical fields where problem-solving abilities are at a premium and people skills are relatively unimportant. Both syndromes are thought to relate to abnormalities in neurotransmitter chemistry, especially the brain's processing of serotonin. Many hackers have noticed that mainstream culture has shown a tendency to pathologize and medicalize normal variations in personality, especially those variations that make life more complicated for authority figures and conformists. Thus, hackers aware of the issue tend to be among those questioning whether ADD and AS actually exist; and if so whether they are really diseases rather than extremes of a normal genetic variation like having freckles or being able to taste DPT. In either case, they have a sneaking tendency to wonder if these syndromes are over-diagnosed and over-treated. After all, people in authority will always be inconvenienced by schoolchildren or workers or citizens who are prickly, intelligent individualists  thus, any social system that depends on authority relationships will tend to helpfully ostracize and therapize and drug such abnormal people until they are properly docile and stupid and well-socialized. So hackers tend to believe they have good reason for skepticism about clinical explanations of the hacker personality. That being said, most would also concede that some hacker traits coincide with indicators for non-hyperactive ADD and AS  the status of caffeine as a hacker beverage of choice may be connected to the fact that it bonds to the same neural receptors as Ritalin, the drug most commonly prescribed for ADD. It is probably true that boosters of both would find a rather higher rate of clinical ADD among hackers than the supposedly mainstream-normal 3-5% (AS is rarer at 0.4-0.5%).
+withdrawn, relationally incompetent, sexually frustrated, and desperately
+unhappy when not submerged in his or her craft. Fortunately, this extreme is
+far less common than mainstream folklore paints it  but almost all hackers
+will recognize something of themselves in the unflattering paragraphs above.
+Hackers are often monumentally disorganized and sloppy about dealing with
+the physical world. Bills don't get paid on time, clutter piles up to
+incredible heights in homes and offices, and minor maintenance tasks get
+deferred indefinitely. 1994-95's fad behavioral disease was a syndrome
+called Attention Deficit Disorder (ADD), supposedly characterized by (among
+other things) a combination of short attention span with an ability to
+hyperfocus imaginatively on interesting tasks. In 1998-1999 another syndrome
+that is said to overlap with many hacker traits entered popular awareness:
+Asperger's syndrome (AS). This disorder is also sometimes called
+high-function autism, though researchers are divided on whether AS is in
+fact a mild form of autism or a distinct syndrome with a different etiology.
+AS patients exhibit mild to severe deficits in interpreting facial and
+body-language cues and in modeling or empathizing with others' emotions.
+Though some AS patients exhibit mild retardation, others compensate for
+their deficits with high intelligence and analytical ability, and frequently
+seek out technical fields where problem-solving abilities are at a premium
+and people skills are relatively unimportant. Both syndromes are thought to
+relate to abnormalities in neurotransmitter chemistry, especially the
+brain's processing of serotonin. Many hackers have noticed that mainstream
+culture has shown a tendency to pathologize and medicalize normal variations
+in personality, especially those variations that make life more complicated
+for authority figures and conformists. Thus, hackers aware of the issue tend
+to be among those questioning whether ADD and AS actually exist; and if so
+whether they are really diseases rather than extremes of a normal genetic
+variation like having freckles or being able to taste DPT. In either case,
+they have a sneaking tendency to wonder if these syndromes are
+over-diagnosed and over-treated. After all, people in authority will always
+be inconvenienced by schoolchildren or workers or citizens who are prickly,
+intelligent individualists  thus, any social system that depends on
+authority relationships will tend to helpfully ostracize and therapize and
+drug such abnormal people until they are properly docile and stupid and
+well-socialized. So hackers tend to believe they have good reason for
+skepticism about clinical explanations of the hacker personality. That being
+said, most would also concede that some hacker traits coincide with
+indicators for non-hyperactive ADD and AS  the status of caffeine as a
+hacker beverage of choice may be connected to the fact that it bonds to the
+same neural receptors as Ritalin, the drug most commonly prescribed for ADD.
+It is probably true that boosters of both would find a rather higher rate of
+clinical ADD among hackers than the supposedly mainstream-normal 3-5% (AS is
+rarer at 0.4-0.5%).
+

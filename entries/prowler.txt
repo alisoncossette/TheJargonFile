@@ -1,3 +1,7 @@
 prowler
 
-n. [Unix] A daemon that is run periodically (typically once a week) to seek out and erase core files, truncate administrative logfiles, nuke lost+found directories, and otherwise clean up the cruft that tends to pile up in the corners of a file system. See also reaper , skulker.
+n. [Unix] A daemon that is run periodically (typically once a week) to seek
+out and erase core files, truncate administrative logfiles, nuke lost+found
+directories, and otherwise clean up the cruft that tends to pile up in the
+corners of a file system. See also reaper , skulker.
+

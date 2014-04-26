@@ -1,3 +1,5 @@
 byte sex
 
-n. [common] The byte sex of hardware is big-endian or little-endian ; see those entries.
+n. [common] The byte sex of hardware is big-endian or little-endian ; see
+those entries.
+

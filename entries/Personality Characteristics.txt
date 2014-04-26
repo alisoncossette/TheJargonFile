@@ -1,3 +1,28 @@
 Personality Characteristics
 
-Contrary to stereotype, hackers are not usually intellectually narrow; they tend to be interested in any subject that can provide mental stimulation, and can often discourse knowledgeably and even interestingly on any number of obscure subjects  if you can get them to talk at all, as opposed to, say, going back to their hacking. It is noticeable (and contrary to many outsiders' expectations) that the better a hacker is at hacking, the more likely he or she is to have outside interests at which he or she is more than merely competent. Hackers are control freaks in a way that has nothing to do with the usual coercive or authoritarian connotations of the term. In the same way that children delight in making model trains go forward and back by moving a switch, hackers love making complicated things like computers do nifty stuff for them. But it has to be their nifty stuff. They don't like tedium, nondeterminism, or most of the fussy, boring, ill-defined little tasks that go with maintaining a normal existence. Accordingly, they tend to be careful and orderly in their intellectual lives and chaotic elsewhere. Their code will be beautiful, even if their desks are buried in 3 feet of crap. Hackers are generally only very weakly motivated by conventional rewards such as social approval or money. They tend to be attracted by challenges and excited by interesting toys, and to judge the interest of work or other activities in terms of the challenges offered and the toys they get to play with. In terms of Myers-Briggs and equivalent psychometric systems, hackerdom appears to concentrate the relatively rare INTJ and INTP types; that is, introverted, intuitive, and thinker types (as opposed to the extroverted-sensate personalities that predominate in the mainstream culture).
+Contrary to stereotype, hackers are not usually intellectually narrow; they
+tend to be interested in any subject that can provide mental stimulation,
+and can often discourse knowledgeably and even interestingly on any number
+of obscure subjects  if you can get them to talk at all, as opposed to, say,
+going back to their hacking. It is noticeable (and contrary to many
+outsiders' expectations) that the better a hacker is at hacking, the more
+likely he or she is to have outside interests at which he or she is more
+than merely competent. Hackers are control freaks in a way that has nothing
+to do with the usual coercive or authoritarian connotations of the term. In
+the same way that children delight in making model trains go forward and
+back by moving a switch, hackers love making complicated things like
+computers do nifty stuff for them. But it has to be their nifty stuff. They
+don't like tedium, nondeterminism, or most of the fussy, boring, ill-defined
+little tasks that go with maintaining a normal existence. Accordingly, they
+tend to be careful and orderly in their intellectual lives and chaotic
+elsewhere. Their code will be beautiful, even if their desks are buried in 3
+feet of crap. Hackers are generally only very weakly motivated by
+conventional rewards such as social approval or money. They tend to be
+attracted by challenges and excited by interesting toys, and to judge the
+interest of work or other activities in terms of the challenges offered and
+the toys they get to play with. In terms of Myers-Briggs and equivalent
+psychometric systems, hackerdom appears to concentrate the relatively rare
+INTJ and INTP types; that is, introverted, intuitive, and thinker types (as
+opposed to the extroverted-sensate personalities that predominate in the
+mainstream culture).
+

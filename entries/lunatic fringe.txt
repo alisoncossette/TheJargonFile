@@ -1,3 +1,5 @@
 lunatic fringe
 
-n. [IBM] Customers who can be relied upon to accept release 1 versions of software. Compare heatseeker.
+n. [IBM] Customers who can be relied upon to accept release 1 versions of
+software. Compare heatseeker.
+

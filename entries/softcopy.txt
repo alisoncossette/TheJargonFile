@@ -1,3 +1,5 @@
 softcopy
 
-/softkopee/ , n. [by analogy with hardcopy ] A machine-readable form of corresponding hardcopy. See bits.
+/softkopee/ , n. [by analogy with hardcopy ] A machine-readable form of
+corresponding hardcopy. See bits.
+

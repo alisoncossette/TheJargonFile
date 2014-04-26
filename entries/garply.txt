@@ -1,3 +1,5 @@
 garply
 
-/garplee/ , n. [Stanford] Another metasyntactic variable (see foo ); once popular among SAIL hackers.
+/garplee/ , n. [Stanford] Another metasyntactic variable (see foo ); once
+popular among SAIL hackers.
+

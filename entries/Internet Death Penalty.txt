@@ -1,3 +1,7 @@
 Internet Death Penalty
 
-(often abbreviated IDP) The ultimate sanction against spam -emitting sites complete shunning at the router level of all mail and packets, as well as Usenet messages, from the offending domain(s). Compare Usenet Death Penalty , with which it is sometimes confused.
+(often abbreviated IDP) The ultimate sanction against spam -emitting sites
+complete shunning at the router level of all mail and packets, as well as
+Usenet messages, from the offending domain(s). Compare Usenet Death Penalty
+, with which it is sometimes confused.
+

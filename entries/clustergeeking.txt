@@ -1,3 +1,5 @@
 clustergeeking
 
-/kluhst@rgee`king/ , n. [CMU] Spending more time at a computer cluster doing CS homework than most people spend breathing.
+/kluhst@rgee`king/ , n. [CMU] Spending more time at a computer cluster doing
+CS homework than most people spend breathing.
+

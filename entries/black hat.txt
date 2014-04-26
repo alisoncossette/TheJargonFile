@@ -1,3 +1,7 @@
 black hat
 
-someone considering a potential business relationship with an ISP or other provider will post a query to a NANA group, asking about the provider's hat color. The term albedo has also been used to describe a provider's spam-friendliness.
+someone considering a potential business relationship with an ISP or other
+provider will post a query to a NANA group, asking about the provider's hat
+color. The term albedo has also been used to describe a provider's
+spam-friendliness.
+

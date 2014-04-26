@@ -1,3 +1,5 @@
 OP
 
-// [Usenet; common] Abbreviation for original poster , the originator of a particular thread.
+// [Usenet; common] Abbreviation for original poster , the originator of a
+particular thread.
+

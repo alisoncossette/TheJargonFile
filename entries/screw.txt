@@ -1,3 +1,6 @@
 screw
 
-n. [MIT] A lose , usually in software. Especially used for user-visible misbehavior caused by a bug or misfeature. This use has become quite widespread outside MIT.
+n. [MIT] A lose , usually in software. Especially used for user-visible
+misbehavior caused by a bug or misfeature. This use has become quite
+widespread outside MIT.
+

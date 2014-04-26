@@ -1,3 +1,5 @@
 Old Testament
 
-n. [C programmers] The first edition of K R , the sacred text describing Classic C.
+n. [C programmers] The first edition of K R , the sacred text describing
+Classic C.
+

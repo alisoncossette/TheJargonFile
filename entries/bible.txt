@@ -1,3 +1,6 @@
 bible
 
-n. 1. One of a small number of fundamental source books such as Knuth , K R , or the Camel Book. 2. The most detailed and authoritative reference for a particular language, operating system, or other complex software system.
+n. 1. One of a small number of fundamental source books such as Knuth , K R
+, or the Camel Book. 2. The most detailed and authoritative reference for a
+particular language, operating system, or other complex software system.
+

@@ -1,3 +1,14 @@
 clone
 
-n. 1. An exact duplicate: Our product is a clone of their product. Implies a legal reimplementation from documentation or by reverse-engineering. Also connotes lower price. 2. A shoddy, spurious copy: Their product is a clone of our product. 3. A blatant ripoff, most likely violating copyright, patent, or trade secret protections: Your product is a clone of my product. This use implies legal action is pending. 4. [obs] PC clone: a PC-BUS/ISA/EISA/PCI-compatible 80x86-based microcomputer (this use is sometimes spelled klone or PClone ). These invariably have much more bang for the buck than the IBM archetypes they resemble. This term fell out of use in the 1990s; the class of machines it describes are now simply PCs or Intel machines. 5. [obs.
+n. 1. An exact duplicate: Our product is a clone of their product. Implies a
+legal reimplementation from documentation or by reverse-engineering. Also
+connotes lower price. 2. A shoddy, spurious copy: Their product is a clone
+of our product. 3. A blatant ripoff, most likely violating copyright,
+patent, or trade secret protections: Your product is a clone of my product.
+This use implies legal action is pending. 4. [obs] PC clone: a
+PC-BUS/ISA/EISA/PCI-compatible 80x86-based microcomputer (this use is
+sometimes spelled klone or PClone ). These invariably have much more bang
+for the buck than the IBM archetypes they resemble. This term fell out of
+use in the 1990s; the class of machines it describes are now simply PCs or
+Intel machines. 5. [obs.
+

@@ -1,3 +1,16 @@
 eighty-column mind
 
-n. [IBM] The sort said to be possessed by persons for whom the transition from punched card to tape was traumatic (nobody has dared tell them about disks yet). It is said that these people, including (according to an old joke) the founder of IBM, will be buried face down, 9-edge first (the 9-edge being the bottom of the card). This directive is inscribed on IBM's 1402 and 1622 card readers and is referenced in a famous bit of doggerel called The Last Bug , the climactic lines of which are as follows: Hediedattheconsole Ofhungerandthirst. Nextdayhewasburied, Facedown,9-edgefirst. The eighty-column mind was thought by most hackers to dominate IBM's customer base and its thinking. This only began to change in the mid-1990s when IBM began to reinvent itself after the triumph of the killer micro. See IBM , fear and loathing , code grinder. A copy of The Last Bug lives on the the GNU site at http://www.gnu.org/fun/jokes/last.bug.html.
+n. [IBM] The sort said to be possessed by persons for whom the transition
+from punched card to tape was traumatic (nobody has dared tell them about
+disks yet). It is said that these people, including (according to an old
+joke) the founder of IBM, will be buried face down, 9-edge first (the 9-edge
+being the bottom of the card). This directive is inscribed on IBM's 1402 and
+1622 card readers and is referenced in a famous bit of doggerel called The
+Last Bug , the climactic lines of which are as follows: Hediedattheconsole
+Ofhungerandthirst. Nextdayhewasburied, Facedown,9-edgefirst. The
+eighty-column mind was thought by most hackers to dominate IBM's customer
+base and its thinking. This only began to change in the mid-1990s when IBM
+began to reinvent itself after the triumph of the killer micro. See IBM ,
+fear and loathing , code grinder. A copy of The Last Bug lives on the the
+GNU site at http://www.gnu.org/fun/jokes/last.bug.html.
+

@@ -1,3 +1,5 @@
 twilight zone
 
-n. , // [IRC] Notionally, the area of cyberspace where IRC operators live. An op is said to have a connection to the twilight zone.
+n. , // [IRC] Notionally, the area of cyberspace where IRC operators live.
+An op is said to have a connection to the twilight zone.
+

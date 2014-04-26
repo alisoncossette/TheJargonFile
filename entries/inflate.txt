@@ -1,3 +1,5 @@
 inflate
 
-vt. To decompress or puff a file. Rare among Internet hackers, used primarily by MS-DOS/Windows types.
+vt. To decompress or puff a file. Rare among Internet hackers, used
+primarily by MS-DOS/Windows types.
+

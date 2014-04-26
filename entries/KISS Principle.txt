@@ -1,3 +1,7 @@
 KISS Principle
 
-/kis prinsipl/ , n. Keep It Simple, Stupid. A maxim often invoked when discussing design to fend off creeping featurism and control development complexity. Possibly related to the marketroid maxim on sales presentations, Keep It Short and Simple.
+/kis prinsipl/ , n. Keep It Simple, Stupid. A maxim often invoked when
+discussing design to fend off creeping featurism and control development
+complexity. Possibly related to the marketroid maxim on sales presentations,
+Keep It Short and Simple.
+

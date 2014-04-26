@@ -1,3 +1,4 @@
 payware
 
 /payweir/ , n. Commercial software. Oppose shareware or freeware.
+

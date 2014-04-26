@@ -1,3 +1,6 @@
 frednet
 
-/frednet/ , n. Used to refer to some random and uncommon protocol encountered on a network. We're implementing bridging in our router to solve the frednet problem.
+/frednet/ , n. Used to refer to some random and uncommon protocol
+encountered on a network. We're implementing bridging in our router to solve
+the frednet problem.
+

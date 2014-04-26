@@ -1,3 +1,5 @@
 war-driving
 
-Driving around looking for unsecured wireless Internet access points to connect to. More at the War Driving home page. Compare war-chalking.
+Driving around looking for unsecured wireless Internet access points to
+connect to. More at the War Driving home page. Compare war-chalking.
+

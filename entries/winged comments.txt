@@ -1,3 +1,7 @@
 winged comments
 
-n. Comments set on the same line as code, as opposed to boxed comments. In C, for example: d=sqrt(x*x+y*y);/*distancefromorigin*/ Generally these refer only to the action(s) taken on that line. (The next cartoon in the Crunchly saga is 75-10-04. The previous cartoon was 74-12-25.
+n. Comments set on the same line as code, as opposed to boxed comments. In
+C, for example: d=sqrt(x*x+y*y);/*distancefromorigin*/ Generally these refer
+only to the action(s) taken on that line. (The next cartoon in the Crunchly
+saga is 75-10-04. The previous cartoon was 74-12-25.
+

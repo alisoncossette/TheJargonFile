@@ -1,3 +1,8 @@
 hop
 
-One file transmission in a series required to get a file from point A to point B on a store-and-forward network. On such networks (including the old UUCP network and and FidoNet ), an important inter-machine metric is the number of hops in the shortest path between them, which can be more significant than their geographical separation. See bang path. 2. v.
+One file transmission in a series required to get a file from point A to
+point B on a store-and-forward network. On such networks (including the old
+UUCP network and and FidoNet ), an important inter-machine metric is the
+number of hops in the shortest path between them, which can be more
+significant than their geographical separation. See bang path. 2. v.
+

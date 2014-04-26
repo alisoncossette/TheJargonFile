@@ -1,3 +1,6 @@
 bar
 
-/bar/ , n. 1. [very common] The second metasyntactic variable ,  after foo and before baz. Suppose we have two functions: FOO and BAR. FOO calls BAR.... 2. Often appended to foo to produce foobar.
+/bar/ , n. 1. [very common] The second metasyntactic variable ,  after foo
+and before baz. Suppose we have two functions: FOO and BAR. FOO calls
+BAR.... 2. Often appended to foo to produce foobar.
+

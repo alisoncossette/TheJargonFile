@@ -1,3 +1,6 @@
 pffft
 
-interj. [IRC] A metamorphic expletive which can be used to convey emotion, particularly shock or surprise, disgust or anger. The amplitude of the reaction can be measured by counting intermediary fs.
+interj. [IRC] A metamorphic expletive which can be used to convey emotion,
+particularly shock or surprise, disgust or anger. The amplitude of the
+reaction can be measured by counting intermediary fs.
+

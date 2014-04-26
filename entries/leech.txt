@@ -1,3 +1,11 @@
 leech
 
-v. To download a file across any kind of internet link. Hop on IRC later so I can leech some MP3s from you. Used to describe activities ranging from FTP, to IRC DCC-send, to ICQ file requests, to Napster searches (but never to downloading email with file attachments; the implication is that the download is the result of a browse or search of some sort of file server). Seems to be a holdover from the early 1990s when Toronto had a very active BBS and warez scene. Synonymous with snarf (sense 2), and contrast snarf (sense 4).
+v. To download a file across any kind of internet link. Hop on IRC later so
+I can leech some MP3s from you. Used to describe activities ranging from
+FTP, to IRC DCC-send, to ICQ file requests, to Napster searches (but never
+to downloading email with file attachments; the implication is that the
+download is the result of a browse or search of some sort of file server).
+Seems to be a holdover from the early 1990s when Toronto had a very active
+BBS and warez scene. Synonymous with snarf (sense 2), and contrast snarf
+(sense 4).
+

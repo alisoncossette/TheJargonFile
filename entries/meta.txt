@@ -1,3 +1,8 @@
 meta
 
-/met@/ , /mayt@/ , /meet@/ , pref. [from analytic philosophy] One level of description up. A metasyntactic variable is a variable in notation used to describe syntax, and meta-language is language used to describe language. This is difficult to explain briefly, but much hacker humor turns on deliberate confusion between meta-levels. See hacker humor.
+/met@/ , /mayt@/ , /meet@/ , pref. [from analytic philosophy] One level of
+description up. A metasyntactic variable is a variable in notation used to
+describe syntax, and meta-language is language used to describe language.
+This is difficult to explain briefly, but much hacker humor turns on
+deliberate confusion between meta-levels. See hacker humor.
+

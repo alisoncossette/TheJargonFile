@@ -1,3 +1,6 @@
 offline
 
-adv. Not now or not here. Let's take this discussion offline. Specifically used on Usenet to suggest that a discussion be moved off a public newsgroup to email.
+adv. Not now or not here. Let's take this discussion offline. Specifically
+used on Usenet to suggest that a discussion be moved off a public newsgroup
+to email.
+

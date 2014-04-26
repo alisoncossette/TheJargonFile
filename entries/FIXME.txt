@@ -1,3 +1,7 @@
 FIXME
 
-imp. [common] A standard tag often put in C comments near a piece of code that needs work. The point of doing so is that a grep or a similar pattern-matching tool can find all such places quickly. /*FIXME:notethisiscommonin GNU code.*/ Compare XXX.
+imp. [common] A standard tag often put in C comments near a piece of code
+that needs work. The point of doing so is that a grep or a similar
+pattern-matching tool can find all such places quickly.
+/*FIXME:notethisiscommonin GNU code.*/ Compare XXX.
+

@@ -1,3 +1,5 @@
 mangler
 
-n. [DEC] A manager. Compare management. Note that system mangler is somewhat different in connotation.
+n. [DEC] A manager. Compare management. Note that system mangler is somewhat
+different in connotation.
+

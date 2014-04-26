@@ -1,3 +1,5 @@
 beta
 
-/bayt@/ , /bet@/ , /beet@/ , n. 1. Mostly working, but still under test; usu.
+/bayt@/ , /bet@/ , /beet@/ , n. 1. Mostly working, but still under test;
+usu.
+

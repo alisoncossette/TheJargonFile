@@ -1,3 +1,6 @@
 FSF
 
-/FSF/ , abbrev. Common abbreviation (both spoken and written) for the name of the Free Software Foundation, a nonprofit educational association formed to support the GNU project.
+/FSF/ , abbrev. Common abbreviation (both spoken and written) for the name
+of the Free Software Foundation, a nonprofit educational association formed
+to support the GNU project.
+

@@ -1,3 +1,5 @@
 B5
 
-// [common] Abbreviation for Babylon 5 , a science-fiction TV series as revered among hackers as was the original Star Trek.
+// [common] Abbreviation for Babylon 5 , a science-fiction TV series as
+revered among hackers as was the original Star Trek.
+

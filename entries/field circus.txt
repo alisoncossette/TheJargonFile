@@ -1,3 +1,15 @@
 field circus
 
-n. [a derogatory pun on field service ] The field service organization of any hardware manufacturer, but originally DEC. There is an entire genre of jokes about field circus engineers: Q:Howcanyourecognizeafieldcircusengineer withaflattire? A:He'schangingonetireatatimetoseewhichoneisflat. Q:Howcanyourecognizeafieldcircusengineer whoisoutofgas? A:He'schangingonetireatatimetoseewhichoneisflat. Q:Howcanyoutellit's your fieldcircusengineer? A:Thespareisflat,too. [See Easter egging for additional insight on these jokes.] There is also the Field Circus Cheer (from the old plan file for DEC on MIT-AI): Maynard!Maynard! Don'tmesswithus! We'remeanandwe'retough! Ifyougetusconfused We'llscrewupyourstuff. (DEC's service HQ, still extant under the HP regime, is located in Maynard, Massachusetts.
+n. [a derogatory pun on field service ] The field service organization of
+any hardware manufacturer, but originally DEC. There is an entire genre of
+jokes about field circus engineers: Q:Howcanyourecognizeafieldcircusengineer
+withaflattire? A:He'schangingonetireatatimetoseewhichoneisflat.
+Q:Howcanyourecognizeafieldcircusengineer whoisoutofgas?
+A:He'schangingonetireatatimetoseewhichoneisflat. Q:Howcanyoutellit's your
+fieldcircusengineer? A:Thespareisflat,too. [See Easter egging for additional
+insight on these jokes.] There is also the Field Circus Cheer (from the old
+plan file for DEC on MIT-AI): Maynard!Maynard! Don'tmesswithus!
+We'remeanandwe'retough! Ifyougetusconfused We'llscrewupyourstuff. (DEC's
+service HQ, still extant under the HP regime, is located in Maynard,
+Massachusetts.
+

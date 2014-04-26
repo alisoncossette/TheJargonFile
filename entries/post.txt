@@ -1,3 +1,4 @@
 post
 
 v. To send a message to a mailing list or newsgroup.
+

@@ -1,3 +1,5 @@
 S/N ratio
 
-// , n. (also s/n ratio , s:n ratio ). Syn. signal-to-noise ratio. Often abbreviated SNR.
+// , n. (also s/n ratio , s:n ratio ). Syn. signal-to-noise ratio. Often
+abbreviated SNR.
+

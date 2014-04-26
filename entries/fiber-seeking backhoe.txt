@@ -1,3 +1,5 @@
 fiber-seeking backhoe
 
-Any of a genus of large, disruptive machines which routinely cut critical backbone links, creating Internet outages and packet over air problems.
+Any of a genus of large, disruptive machines which routinely cut critical
+backbone links, creating Internet outages and packet over air problems.
+

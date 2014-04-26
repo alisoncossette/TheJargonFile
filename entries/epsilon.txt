@@ -1,3 +1,8 @@
 epsilon
 
-close enough to be indistinguishable for all practical purposes, even closer than being within delta of. That's not what I asked for, but it's within epsilon of what I wanted. Alternatively, it may mean not close enough, but very little is required to get it there: My program is within epsilon of working.
+close enough to be indistinguishable for all practical purposes, even closer
+than being within delta of. That's not what I asked for, but it's within
+epsilon of what I wanted. Alternatively, it may mean not close enough, but
+very little is required to get it there: My program is within epsilon of
+working.
+

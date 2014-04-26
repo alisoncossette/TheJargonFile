@@ -1,3 +1,5 @@
 KIPS
 
-/kips/ , n. [abbreviation, by analogy with MIPS using K ] Thousands ( not 1024s) of Instructions Per Second. Usage: rare.
+/kips/ , n. [abbreviation, by analogy with MIPS using K ] Thousands ( not
+1024s) of Instructions Per Second. Usage: rare.
+

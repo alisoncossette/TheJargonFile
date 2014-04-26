@@ -1,3 +1,6 @@
 nanobot
 
-/nanohbot/ , n. A robot of microscopic proportions, presumably built by means of nanotechnology. As yet, only used informally (and speculatively!). Also called a nanoagent.
+/nanohbot/ , n. A robot of microscopic proportions, presumably built by
+means of nanotechnology. As yet, only used informally (and speculatively!).
+Also called a nanoagent.
+

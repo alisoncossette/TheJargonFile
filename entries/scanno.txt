@@ -1,3 +1,5 @@
 scanno
 
-/skanoh/ , n. An error in a document caused by a scanner glitch, analogous to a typo or thinko.
+/skanoh/ , n. An error in a document caused by a scanner glitch, analogous
+to a typo or thinko.
+

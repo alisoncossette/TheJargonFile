@@ -124,6 +124,25 @@ def jargonSaneTitle(title):
       title = title.replace('/','-')
    return title
 
+# limit line lengths so that entries are more readable
+def jargonPageColumns(text, columns):
+   words = text.split(' ')
+   lineLen = 0
+   line = ''
+   result = ''
+   for word in words:
+      if lineLen + len(word) + 1 >= columns:
+         result = result + line + '\n'
+         line = ''
+         lineLen = 0
+      lineLen = lineLen + len(word) + 1
+      if line == '':
+         line = word
+      else:
+         line = line + ' ' + word
+
+   return result + line + '\n'
+
 def jargonCreateEntry(title, text, outputDir):
    # create the filename for the entry
    filename = outputDir
@@ -134,6 +153,8 @@ def jargonCreateEntry(title, text, outputDir):
    # don't overwrite existing files
    if os.path.isfile(filename):
       return ''
+
+   text = jargonPageColumns(text, 78)
 
    fp = open(filename, 'w')
    fp.write(title + '\n\n' + text + '\n')

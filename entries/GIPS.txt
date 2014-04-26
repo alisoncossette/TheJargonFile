@@ -1,3 +1,5 @@
 GIPS
 
-/gips/ , /jips/ , n. [analogy with MIPS ] Giga-Instructions per Second (also possibly Gillions of Instructions per Second ; see gillion ). Compare KIPS.
+/gips/ , /jips/ , n. [analogy with MIPS ] Giga-Instructions per Second (also
+possibly Gillions of Instructions per Second ; see gillion ). Compare KIPS.
+

@@ -1,3 +1,8 @@
 tweak
 
-vt. 1. To change slightly, usually in reference to a value. Also used synonymously with twiddle. If a program is almost correct, rather than figure out the precise problem you might just keep tweaking it until it works. See frobnicate and fudge factor ; also see shotgun debugging. 2. To tune a program; preferred usage in the U.K.
+vt. 1. To change slightly, usually in reference to a value. Also used
+synonymously with twiddle. If a program is almost correct, rather than
+figure out the precise problem you might just keep tweaking it until it
+works. See frobnicate and fudge factor ; also see shotgun debugging. 2. To
+tune a program; preferred usage in the U.K.
+

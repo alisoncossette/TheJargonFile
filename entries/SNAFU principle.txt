@@ -1,3 +1,31 @@
 SNAFU principle
 
-/snafoo prinsipl/ , n. [from a WWII Army acronym for Situation Normal, All Fucked Up ] True communication is possible only between equals, because inferiors are more consistently rewarded for telling their superiors pleasant lies than for telling the truth.: a central tenet of Discordianism , often invoked by hackers to explain why authoritarian hierarchies screw up so reliably and systematically. The effect of the SNAFU principle is a progressive disconnection of decision-makers from reality. This lightly adapted version of a fable dating back to the early 1960s illustrates the phenomenon perfectly: Inthebeginningwastheplan, andthenthespecification; Andtheplanwaswithoutform, andthespecificationwasvoid. Anddarkness wasonthefacesoftheimplementorsthereof; Andtheyspakeuntotheirleader, saying: Itisacrockofshit, andsmellsasofasewer. Andtheleadertookpityonthem, andspoketotheprojectleader: Itisacrockofexcrement, andnonemayabidetheodorthereof. Andtheprojectleader spakeuntohissectionhead,saying: Itisacontainerofexcrement, anditisverystrong,suchthatnonemayabideit. Thesectionheadthenhurriedtohisdepartmentmanager, andinformedhimthus: Itisavesseloffertilizer, andnonemayabideitsstrength. Thedepartmentmanagercarriedthesewords tohisgeneralmanager, andspokeuntohim saying: Itcontaineththatwhichaideththegrowthofplants, anditisverystrong. Andsoitwasthatthegeneralmanagerrejoiced anddeliveredthegoodnewsuntotheVicePresident. Itpromotethgrowth, anditisverypowerful. TheVicePresidentrushedtothePresident'sside, andjoyouslyexclaimed: Thispowerfulnewsoftwareproduct willpromotethegrowthofthecompany! AndthePresidentlookedupontheproduct, andsawthatitwasverygood. After the subsequent and inevitable disaster, the suit s protect themselves by saying I was misinformed! , and the implementors are demoted or fired. Compare Conway's Law.
+/snafoo prinsipl/ , n. [from a WWII Army acronym for Situation Normal, All
+Fucked Up ] True communication is possible only between equals, because
+inferiors are more consistently rewarded for telling their superiors
+pleasant lies than for telling the truth.: a central tenet of Discordianism
+, often invoked by hackers to explain why authoritarian hierarchies screw up
+so reliably and systematically. The effect of the SNAFU principle is a
+progressive disconnection of decision-makers from reality. This lightly
+adapted version of a fable dating back to the early 1960s illustrates the
+phenomenon perfectly: Inthebeginningwastheplan, andthenthespecification;
+Andtheplanwaswithoutform, andthespecificationwasvoid. Anddarkness
+wasonthefacesoftheimplementorsthereof; Andtheyspakeuntotheirleader, saying:
+Itisacrockofshit, andsmellsasofasewer. Andtheleadertookpityonthem,
+andspoketotheprojectleader: Itisacrockofexcrement,
+andnonemayabidetheodorthereof. Andtheprojectleader
+spakeuntohissectionhead,saying: Itisacontainerofexcrement,
+anditisverystrong,suchthatnonemayabideit.
+Thesectionheadthenhurriedtohisdepartmentmanager, andinformedhimthus:
+Itisavesseloffertilizer, andnonemayabideitsstrength.
+Thedepartmentmanagercarriedthesewords tohisgeneralmanager, andspokeuntohim
+saying: Itcontaineththatwhichaideththegrowthofplants, anditisverystrong.
+Andsoitwasthatthegeneralmanagerrejoiced
+anddeliveredthegoodnewsuntotheVicePresident. Itpromotethgrowth,
+anditisverypowerful. TheVicePresidentrushedtothePresident'sside,
+andjoyouslyexclaimed: Thispowerfulnewsoftwareproduct
+willpromotethegrowthofthecompany! AndthePresidentlookedupontheproduct,
+andsawthatitwasverygood. After the subsequent and inevitable disaster, the
+suit s protect themselves by saying I was misinformed! , and the
+implementors are demoted or fired. Compare Conway's Law.
+

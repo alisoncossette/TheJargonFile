@@ -1,3 +1,6 @@
 microserf
 
-/mi:kros@rf/ [popularized, though not originated, by Douglas Coupland's book Microserfs ] A programmer at Microsoft , especially a low-level coder with little chance of fame or fortune. Compare MicroDroid.
+/mi:kros@rf/ [popularized, though not originated, by Douglas Coupland's book
+Microserfs ] A programmer at Microsoft , especially a low-level coder with
+little chance of fame or fortune. Compare MicroDroid.
+

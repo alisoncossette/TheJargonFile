@@ -1,3 +1,6 @@
 playte
 
-/playt/ 16 bits, by analogy with nybble and byte. Usage: rare and extremely silly. See also dynner and crumb. General discussion of such terms is under nybble.
+/playt/ 16 bits, by analogy with nybble and byte. Usage: rare and extremely
+silly. See also dynner and crumb. General discussion of such terms is under
+nybble.
+

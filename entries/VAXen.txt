@@ -1,3 +1,6 @@
 VAXen
 
-/vaksn/ , n. [from oxen , perhaps influenced by vixen ] (alt.: vaxen ) The plural canonically used among hackers for the DEC VAX computers. Our installation has four PDP-10s and twenty vaxen. See boxen.
+/vaksn/ , n. [from oxen , perhaps influenced by vixen ] (alt.: vaxen ) The
+plural canonically used among hackers for the DEC VAX computers. Our
+installation has four PDP-10s and twenty vaxen. See boxen.
+

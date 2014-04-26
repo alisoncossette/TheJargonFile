@@ -1,3 +1,6 @@
 munching
 
-n. Exploration of security holes of someone else's computer for thrills, notoriety, or to annoy the system manager. Compare cracker. See also hacked off.
+n. Exploration of security holes of someone else's computer for thrills,
+notoriety, or to annoy the system manager. Compare cracker. See also hacked
+off.
+

@@ -1,3 +1,5 @@
 segv
 
-/segvee/ , n.,vi. Yet another synonym for segmentation fault (actually, in this case, segmentation violation ).
+/segvee/ , n.,vi. Yet another synonym for segmentation fault (actually, in
+this case, segmentation violation ).
+

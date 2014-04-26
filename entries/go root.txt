@@ -1,3 +1,6 @@
 go root
 
-vi. [Unix; common] To temporarily enter root mode in order to perform a privileged operation. This use is deprecated in Australia, where v. root is a synonym for fuck.
+vi. [Unix; common] To temporarily enter root mode in order to perform a
+privileged operation. This use is deprecated in Australia, where v. root is
+a synonym for fuck.
+

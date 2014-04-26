@@ -1,3 +1,5 @@
 blast
 
-Synonymous with nuke (sense 3). Sometimes the message Unable to kill all processes. Blast them (y/n)? would appear in the command window upon logout.
+Synonymous with nuke (sense 3). Sometimes the message Unable to kill all
+processes. Blast them (y/n)? would appear in the command window upon logout.
+

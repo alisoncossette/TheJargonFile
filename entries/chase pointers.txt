@@ -1,3 +1,6 @@
 chase pointers
 
-The process of going through a core dump (sense 1), interactively or on a large piece of paper printed with hex runes , following dynamic data-structures. Used only in a debugging context.
+The process of going through a core dump (sense 1), interactively or on a
+large piece of paper printed with hex runes , following dynamic
+data-structures. Used only in a debugging context.
+

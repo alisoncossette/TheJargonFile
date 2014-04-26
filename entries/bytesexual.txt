@@ -1,3 +1,7 @@
 bytesexual
 
-/bi:t`sekshu@l/ , adj. [rare] Said of hardware, denotes willingness to compute or pass data in either big-endian or little-endian format (depending, presumably, on a mode bit somewhere). See also NUXI problem. Prev  Up  Next byte sex Home Bzzzt! Wrong.
+/bi:t`sekshu@l/ , adj. [rare] Said of hardware, denotes willingness to
+compute or pass data in either big-endian or little-endian format
+(depending, presumably, on a mode bit somewhere). See also NUXI problem.
+Prev  Up  Next byte sex Home Bzzzt! Wrong.
+

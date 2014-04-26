@@ -1,3 +1,28 @@
 metasyntactic variable
 
-n. A name used in examples and understood to stand for whatever thing is under discussion, or any random member of a class of things under discussion. The word foo is the canonical example. To avoid confusion, hackers never (well, hardly ever) use foo or other words like it as permanent names for anything. In filenames, a common convention is that any filename beginning with a metasyntactic-variable name is a scratch file that may be deleted at any time. Metasyntactic variables are so called because (1) they are variables in the metalanguage used to talk about programs etc; (2) they are variables whose values are often variables (as in usages like the value of f(foo,bar) is the sum of foo and bar ). However, it has been plausibly suggested that the real reason for the term metasyntactic variable is that it sounds good. To some extent, the list of one's preferred metasyntactic variables is a cultural signature. They occur both in series (used for related groups of variables or objects) and as singletons. Here are a few common signatures: foo , bar , baz , quux ,  quuux, quuuux...: MIT/Stanford usage, now found everywhere (thanks largely to  early versions of this lexicon!). At MIT (but not at Stanford), baz dropped out of use for a while in the  1970s and '80s. A common recent mutation of this sequence inserts qux before quux. bazola, ztesch: Stanford (from mid-'70s on). foo , bar , thud, grunt: This series was popular at CMU. Other CMU-associated variables  include gorp. foo , bar , bletch: Waterloo University. We are informed that the CS club at  Waterloo formerly had a sign on its door reading Ye Olde Foo Bar and Grill ; this led to an attempt  to establish grill as the third metasyntactic variable,  but it never caught on. foo , bar , fum: This series is reported to be common at XEROX PARC.
+n. A name used in examples and understood to stand for whatever thing is
+under discussion, or any random member of a class of things under
+discussion. The word foo is the canonical example. To avoid confusion,
+hackers never (well, hardly ever) use foo or other words like it as
+permanent names for anything. In filenames, a common convention is that any
+filename beginning with a metasyntactic-variable name is a scratch file that
+may be deleted at any time. Metasyntactic variables are so called because
+(1) they are variables in the metalanguage used to talk about programs etc;
+(2) they are variables whose values are often variables (as in usages like
+the value of f(foo,bar) is the sum of foo and bar ). However, it has been
+plausibly suggested that the real reason for the term metasyntactic variable
+is that it sounds good. To some extent, the list of one's preferred
+metasyntactic variables is a cultural signature. They occur both in series
+(used for related groups of variables or objects) and as singletons. Here
+are a few common signatures: foo , bar , baz , quux ,  quuux, quuuux...:
+MIT/Stanford usage, now found everywhere (thanks largely to  early versions
+of this lexicon!). At MIT (but not at Stanford), baz dropped out of use for
+a while in the  1970s and '80s. A common recent mutation of this sequence
+inserts qux before quux. bazola, ztesch: Stanford (from mid-'70s on). foo ,
+bar , thud, grunt: This series was popular at CMU. Other CMU-associated
+variables  include gorp. foo , bar , bletch: Waterloo University. We are
+informed that the CS club at  Waterloo formerly had a sign on its door
+reading Ye Olde Foo Bar and Grill ; this led to an attempt  to establish
+grill as the third metasyntactic variable,  but it never caught on. foo ,
+bar , fum: This series is reported to be common at XEROX PARC.
+

@@ -1,3 +1,6 @@
 shambolic link
 
-/shambolik link/ , n. A Unix symbolic link, particularly when it confuses you, points to nothing at all, or results in your ending up in some completely unexpected part of the filesystem....
+/shambolik link/ , n. A Unix symbolic link, particularly when it confuses
+you, points to nothing at all, or results in your ending up in some
+completely unexpected part of the filesystem....
+

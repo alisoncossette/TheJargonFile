@@ -1,3 +1,8 @@
 Knuth
 
-/kanooth/ , n. [Donald E. Knuth's The Art of Computer Programming ] Mythically, the reference that answers all questions about data structures or algorithms. A safe answer when you do not know: I think you can find that in Knuth. Contrast the literature. See also bible. There is a Donald Knuth home page at http://Sunburn.Stanford.EDU/~knuth/.
+/kanooth/ , n. [Donald E. Knuth's The Art of Computer Programming ]
+Mythically, the reference that answers all questions about data structures
+or algorithms. A safe answer when you do not know: I think you can find that
+in Knuth. Contrast the literature. See also bible. There is a Donald Knuth
+home page at http://Sunburn.Stanford.EDU/~knuth/.
+

@@ -1,3 +1,5 @@
 strudel
 
-n. Common (spoken) name for the at-sign ( @ , ASCII 1000000) character. See ASCII for other synonyms.
+n. Common (spoken) name for the at-sign ( @ , ASCII 1000000) character. See
+ASCII for other synonyms.
+

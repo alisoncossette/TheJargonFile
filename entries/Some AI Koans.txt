@@ -1,3 +1,15 @@
 Some AI Koans
 
-Sussman attains enlightenment In the days when Sussman was a novice, Minsky once came to him as he sat hacking at the PDP-6.  What are you doing? , asked Minsky.  I am training a randomly wired neural net to play Tic-Tac-Toe  Sussman replied.  Why is the net wired randomly? , asked Minsky.  I do not want it to have any preconceptions of how to play , Sussman said. Minsky then shut his eyes.  Why do you close your eyes? , Sussman asked his teacher.  So that the room will be empty.  At that moment, Sussman was enlightened. Drescher and the toaster A disciple of another sect once came to Drescher as he was eating his morning meal.  I would like to give you this personality test , said the outsider,  because I want you to be happy.  Drescher took the paper that was offered him and put it into the toaster, saying:  I wish the toaster to be happy, too.
+Sussman attains enlightenment In the days when Sussman was a novice, Minsky
+once came to him as he sat hacking at the PDP-6.  What are you doing? ,
+asked Minsky.  I am training a randomly wired neural net to play Tic-Tac-Toe
+Sussman replied.  Why is the net wired randomly? , asked Minsky.  I do not
+want it to have any preconceptions of how to play , Sussman said. Minsky
+then shut his eyes.  Why do you close your eyes? , Sussman asked his
+teacher.  So that the room will be empty.  At that moment, Sussman was
+enlightened. Drescher and the toaster A disciple of another sect once came
+to Drescher as he was eating his morning meal.  I would like to give you
+this personality test , said the outsider,  because I want you to be happy. 
+Drescher took the paper that was offered him and put it into the toaster,
+saying:  I wish the toaster to be happy, too.
+

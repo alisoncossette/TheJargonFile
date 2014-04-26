@@ -1,3 +1,6 @@
 stoppage
 
-/stop@j/ , n. Extreme lossage that renders something (usually something vital) completely unusable. The recent system stoppage was caused by a fried transformer.
+/stop@j/ , n. Extreme lossage that renders something (usually something
+vital) completely unusable. The recent system stoppage was caused by a fried
+transformer.
+

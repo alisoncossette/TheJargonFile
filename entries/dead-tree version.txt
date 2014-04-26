@@ -1,3 +1,5 @@
 dead-tree version
 
-A paper version of an on-line document; one printed on dead trees. In this context, dead trees always refers to paper. See also tree-killer.
+A paper version of an on-line document; one printed on dead trees. In this
+context, dead trees always refers to paper. See also tree-killer.
+

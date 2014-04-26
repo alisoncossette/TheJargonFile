@@ -1,3 +1,7 @@
 nanocomputer
 
-/nanohk@mpyootr/ , n. A computer with molecular-sized switching elements. Designs for mechanical nanocomputers which use single-molecule sliding rods for their logic have been proposed. The controller for a nanobot would be a nanocomputer.
+/nanohk@mpyootr/ , n. A computer with molecular-sized switching elements.
+Designs for mechanical nanocomputers which use single-molecule sliding rods
+for their logic have been proposed. The controller for a nanobot would be a
+nanocomputer.
+

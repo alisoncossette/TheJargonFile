@@ -1,3 +1,5 @@
 break
 
-vi. To send an RS-232 break (two character widths of line high) over a serial comm line. 4.
+vi. To send an RS-232 break (two character widths of line high) over a
+serial comm line. 4.
+
