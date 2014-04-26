@@ -1,6 +1,6 @@
 FUD wars
 
-/fuhd worz/ , n. 1, [from FUD ] Historically, political posturing engaged in
+/fuhd worz/ , n. 1. [from FUD ] Historically, political posturing engaged in
 by hardware and software vendors ostensibly committed to standardization but
 actually willing to fragment the market to protect their own shares. The
 Unix International vs.: OSF conflict about Unix standards was one
@@ -10,4 +10,3 @@ battle over open standards has been partly replaced and partly subsumed by
 the argument between closed- and open source proponents. Nowadays,
 accordingly, the term is most likely to be used of anti-open-source
 propaganda emitted by Microsoft. Compare astroturfing.
-
