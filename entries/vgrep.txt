@@ -1,0 +1,3 @@
+vgrep
+
+/veegrep/ , v.,n. Visual grep. The operation of finding patterns in a file optically rather than digitally (also called an optical grep ). See grep ; compare vdiff.

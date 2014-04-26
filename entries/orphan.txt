@@ -1,0 +1,3 @@
+orphan
+
+n. [Unix] A process whose parent has died; one inherited by init (1). Compare zombie.

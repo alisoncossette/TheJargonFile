@@ -1,0 +1,3 @@
+tube
+
+To send a copy of something to someone else's terminal.

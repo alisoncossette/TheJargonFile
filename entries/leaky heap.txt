@@ -1,0 +1,3 @@
+leaky heap
+
+n. [Cambridge] An arena with a memory leak.

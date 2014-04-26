@@ -1,0 +1,3 @@
+cons
+
+/konz/ , /kons/ [from LISP] 1. vt. To add a new element to a specified list, esp. at the top. OK, cons picking a replacement for the console TTY onto the agenda. 2.

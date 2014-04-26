@@ -1,0 +1,3 @@
+optical grep
+
+n. See vgrep.

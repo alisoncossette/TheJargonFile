@@ -1,0 +1,3 @@
+InterCaps
+
+Synonym for BiCapitalization.

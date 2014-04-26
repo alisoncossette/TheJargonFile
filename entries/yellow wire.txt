@@ -1,0 +1,3 @@
+yellow wire
+
+n. [IBM] Repair wires used when connectors (especially ribbon connectors) got broken due to some schlemiel pinching them, or to reconnect cut traces after the FE mistakenly cut one. Compare blue wire , purple wire , red wire.

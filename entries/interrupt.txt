@@ -1,0 +1,3 @@
+interrupt
+
+n. On a computer, an event that interrupts normal processing and temporarily diverts flow-of-control through an interrupt handler routine. See also trap. 2. interj. A request for attention from a hacker. Often explicitly spoken. Interrupt have you seen Joe recently? See priority interrupt.

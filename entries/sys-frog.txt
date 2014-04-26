@@ -1,0 +1,3 @@
+sys-frog
+
+/sisfrog/ , n. [the PLATO system] Playful variant of sysprog , which is in turn short for systems programmer.

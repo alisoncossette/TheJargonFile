@@ -1,0 +1,3 @@
+system
+
+n. 1. The supervisor program or OS on a computer. 2. The entire computer system, including input/output devices, the supervisor program or OS, and possibly other software. 3. Any large-scale program. 4. Any method or algorithm. 5.

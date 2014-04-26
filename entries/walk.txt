@@ -1,0 +1,3 @@
+walk
+
+n.,vt. Traversal of a data structure, especially an array or linked-list data structure in core. See also codewalker , silly walk , clobber.

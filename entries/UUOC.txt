@@ -1,0 +1,3 @@
+UUOC
+
+Stands for Useless Use of cat ; the reference is to the Unix command cat (1) , not the feline animal. As received wisdom on comp.unix.shell observes, The purpose of cat is to concatenate (or catenate ) files. If it's only one file, concatenating it with nothing at all is a waste of time, and costs you a process. Nevertheless one sees people doing catfile|some_commandanditsargs... instead of the equivalent and cheaper filesome_commandanditsargs... or (equivalently and more classically) some_commandanditsargs... file Since 1995, occasional awards for UUOC have been given out, usually by Perl luminary Randal L. Schwartz. There is a web page devoted to this and other similar awards.

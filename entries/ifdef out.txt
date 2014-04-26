@@ -1,0 +1,3 @@
+ifdef out
+
+/ifdef owt/ , v. Syn. for condition out , specific to C. Prev  Up  Next If you want X, you know where to find it.

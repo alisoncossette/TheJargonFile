@@ -1,0 +1,3 @@
+camelCasing
+
+See PascalCasing.

@@ -1,0 +1,3 @@
+reaper
+
+n. A prowler that removes files. A file removed in this way is said to have been reaped.

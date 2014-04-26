@@ -1,0 +1,3 @@
+engine
+
+n. 1. A piece of hardware that encapsulates some function but can't be used without some kind of front end.

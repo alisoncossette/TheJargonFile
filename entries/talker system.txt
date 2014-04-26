@@ -1,0 +1,3 @@
+talker system
+
+n. British hackerism for software that enables real-time chat or talk mode.

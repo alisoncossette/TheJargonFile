@@ -1,0 +1,3 @@
+phage
+
+n. A program that modifies other programs or databases in unauthorized ways; esp. one that propagates a virus or Trojan horse. See also worm , mockingbird. The analogy, of course, is with phage viruses in biology.

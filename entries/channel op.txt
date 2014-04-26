@@ -1,0 +1,3 @@
+channel op
+
+/chanl op/ , n. [IRC] Someone who is endowed with privileges on a particular IRC channel; commonly abbreviated chanop or CHOP or just op (as of 2000 these short forms have almost crowded out the parent usage). These privileges include the right to kick users, to change various status bits, and to make others into CHOPs.

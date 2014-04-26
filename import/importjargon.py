@@ -180,8 +180,6 @@ def jargonReadExclusions(filename):
 def jargonImport(rootDir, excludeEntriesFilename, outputDir):
    exclusions = jargonReadExclusions(excludeEntriesFilename)
 
-   print exclusions
-
    for dirName, subdirList, fileList in os.walk(rootDir):
       for filename in fileList:
          jargonReadFile(dirName + '/' + filename, exclusions, outputDir)

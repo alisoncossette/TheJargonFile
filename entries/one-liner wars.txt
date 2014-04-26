@@ -1,0 +1,3 @@
+one-liner wars
+
+n. A game popular among hackers who code in the language APL (see write-only language and line noise ). The objective is to see who can code the most interesting and/or useful routine in one line of operators chosen from APL's exceedingly hairy primitive set. A similar amusement was practiced among TECO hackers and is now popular among Perl aficionados. Ken Iverson, the inventor of APL, has been credited with a one-liner that, given a number N , produces a list of the prime numbers from 1 to N inclusive. It looks like this: (2=0+.=T. |T)/T N Here's a Perl program that prints primes: perl -wle '(1 x $_) !~ /^(11+)\1+$/ print while ++ $_' In the Perl world this game is sometimes called Perl Golf because the player with the fewest (key)strokes wins.

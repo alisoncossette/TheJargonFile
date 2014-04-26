@@ -1,0 +1,3 @@
+PD
+
+/PD/ , adj. [common] Abbreviation for public domain , applied to software distributed over Usenet and from Internet archive sites. Much of this software is not in fact public domain in the legal sense but travels under various copyrights granting reproduction and use rights to anyone who can snarf a copy. See copyleft.

@@ -1,0 +1,3 @@
+soft boot
+
+n. See boot.

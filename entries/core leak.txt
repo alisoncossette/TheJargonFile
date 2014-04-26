@@ -1,0 +1,3 @@
+core leak
+
+n. Syn. memory leak.

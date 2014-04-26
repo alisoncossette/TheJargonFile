@@ -1,0 +1,3 @@
+tool
+
+An application program with a simple, transparent (typically text-stream) interface designed specifically to be used in programmed combination with other tools (see filter , plumbing ). 3.
