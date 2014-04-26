@@ -1,4 +1,5 @@
 import os
+import string
 import HTMLParser, urllib, urlparse
 
 class JargonFile(dict):
@@ -33,7 +34,7 @@ class JargonParser(HTMLParser.HTMLParser):
     def handle_data(self, data):
         if "head" in self.currentSection:
             # store the title
-            self.title = data
+            self.title = data.strip()
             self.bodyText = '';
         elif "body" in self.currentSection:
             replacements = ['    ','   ','  ','\t','\r','\n']
@@ -45,21 +46,41 @@ class JargonParser(HTMLParser.HTMLParser):
         if "head" in tag or "body" in tag:
             self.currentSection = tag;
 
-def jargonSaneText(text):
+# Further sanitise the returned text
+def jargonSaneText(title, text):
     if len(text) < 2:
         return ''
 
+    # usually in the format (title : text)
     initsplit = text.split(' : ')
     if len(initsplit) < 2:
-        return ''
+       # sometimes in the format (title[blurb] text)
+       initsplit = text.split('] ')
+       if len(initsplit) < 2:
+          # sometimes in the format (title adj. text)
+          initsplit = text.split(' adj. ')
 
-    initial = True
-    newtext = ''
-    for txt in initsplit:
-        if not initial:
-            newtext = newtext + txt
-        initial = False
-    text = newtext
+    # is all else fails look for the second instance of the title text
+    if len(initsplit) < 2:
+       testsplit = text.split(title)
+       if len(testsplit) >= 3:
+          initsplit = testsplit
+          initsplit[1] = ''
+          testsplitctr = 0
+          for txt in testsplit:
+             if txt == ' ':
+                txt = title
+             if testsplitctr >= 2:
+                if testsplitctr >= 3:
+                   initsplit[1] = initsplit[1] + ' '
+                initsplit[1] = initsplit[1] + txt
+             testsplitctr = testsplitctr + 1
+
+    if len(initsplit) < 2:
+       return ''
+
+    # get the second part of the split array (i.e. the description text)
+    text = initsplit[1]
 
     sentsplit = text.split('.')
     if len(sentsplit) > 1:
@@ -74,27 +95,72 @@ def jargonSaneText(text):
     text = text.replace(' . ','. ')
     text = text.replace(' .','. ')
     text = text.replace('  ',' ')
+    text = filter(lambda x: x in string.printable, text)
 
     return text.strip()
 
-def jargonReadFile(filename):
+def validTitle(title):
+   if title is '':
+      return False
+
+   if '\xc2' in title:
+      return False
+
+   if title.startswith("Letters"):
+      return False
+
+   if title.startswith("Comments"):
+      return False
+
+   if title.startswith("Glossary"):
+      return False
+
+   return True
+
+# remove any invalid characters from an entry title
+# so thst it can be saved in a filename
+def jargonSaneTitle(title):
+   if '/' in title:
+      title = title.replace('/','-')
+   return title
+
+def jargonCreateEntry(title, text, outputDir):
+   # create the filename for the entry
+   filename = outputDir
+   if not outputDir.endswith('/'):
+      filename = filename + '/'
+   filename = filename + jargonSaneTitle(title) + '.txt'
+
+   # don't overwrite existing files
+   if os.path.isfile(filename):
+      return ''
+
+   fp = open(filename, 'w')
+   fp.write(title + '\n\n' + text + '\n')
+   fp.close
+   return filename
+
+def jargonReadFile(filename, outputDir):
     inFile = open(filename)
     buffer = ""
     for line in inFile:
         buffer = buffer + line
     parser = JargonParser()
     parser.feed(buffer)
-    if parser.title is not '' and \
+    if validTitle(parser.title) and \
        parser.bodyText is not '' and \
        len(parser.title) > 1:
-        parser.bodyText = jargonSaneText(parser.bodyText)
-        print "Title: " + parser.title
-        print "Text: " + parser.bodyText + "\n"
+       saneBodyText = jargonSaneText(parser.title, parser.bodyText)
+       print jargonCreateEntry(parser.title, saneBodyText, outputDir)
+       #if saneBodyText == "":
+       #print "Title: " + parser.title
+       #   print "Original: " + parser.bodyText
+       #print "Text:  " + saneBodyText + "\n"
 
-def jargonImport(rootDir):
+def jargonImport(rootDir, excludeEntriesFilename, outputDir):
     for dirName, subdirList, fileList in os.walk(rootDir):
         for filename in fileList:
-            jargonReadFile(dirName + '/' + filename)
+            jargonReadFile(dirName + '/' + filename, outputDir)
 
 if __name__ == "__main__":
-    jargonImport('../original')
+    jargonImport('../original','','../entries')
