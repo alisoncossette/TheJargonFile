@@ -1,0 +1,5 @@
+FOSS
+
+An acronym for Free and Open Source Software.  Use of this term was an
+attempt to bridge the ideological divide between the free software and
+open source camps.
