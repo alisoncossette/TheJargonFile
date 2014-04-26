@@ -25,6 +25,27 @@ def jargonParseEntry(filename):
 
     return entry
 
+# returns the number of sub-definitions within a description
+def jargonSubdefinitions(text):
+    definitions = 0
+    for i in range(10):
+        definitionStr = str(i+1) + ". "
+        if text.find(definitionStr) == -1:
+            break
+        definitions = definitions + 1
+
+    if definitions == 0:
+        definitions = 1
+
+    # too many definitions
+    if definitions > 5:
+        definitions  = 0
+
+#    if definitions > 1:
+#        definitions = definitions - 1
+
+    return definitions
+
 def jargonGetEntries(entriesDir):
     entries = []
     for dirName, subdirList, fileList in os.walk(entriesDir):
@@ -34,6 +55,18 @@ def jargonGetEntries(entriesDir):
                 entries.append(entry)
     entries.sort(key=operator.itemgetter(0))
     return entries
+
+def jargonManpageWithDefinitions(text, definitions):
+    result = ''
+    prevpos = 0
+    for i in range(definitions):
+        pos = text.find(str(i+1) + ". ")
+        if pos > -1 and i > 0:
+            if result != '':
+                result = result + "\n\n"
+            result = result + text[prevpos:pos]
+        prevpos = pos
+    return result + "\n\n" + text[prevpos:]
 
 def jargonToManpage(manpageFilename, entries, version):
     if not os.path.isdir("man"):
@@ -49,6 +82,10 @@ def jargonToManpage(manpageFilename, entries, version):
     for entry in entries:
         title = entry[0]
         text = entry[1]
+        definitions = jargonSubdefinitions(entry[1])
+        if definitions > 1:
+            text = jargonManpageWithDefinitions(text, definitions)
+
         fp.write(".SH " + title + "\n")
         fp.write(text + "\n\n")
 
