@@ -129,7 +129,7 @@ def jargonCreateEntry(title, text, outputDir):
    filename = outputDir
    if not outputDir.endswith('/'):
       filename = filename + '/'
-   filename = filename + title + '.txt'
+   filename = filename + jargonSaneTitle(title) + '.txt'
 
    # don't overwrite existing files
    if os.path.isfile(filename):
@@ -151,8 +151,8 @@ def jargonReadFile(filename, exclusions, outputDir):
        parser.bodyText is not '' and \
        len(parser.title) > 1:
        saneBodyText = jargonSaneText(parser.title, parser.bodyText)
-       parser.title = jargonSaneTitle(parser.title)
-       if not parser.title in exclusions:
+       if not ((jargonSaneTitle(parser.title) in exclusions) or \
+               (parser.title in exclusions)):
           entryFilename = jargonCreateEntry(parser.title, saneBodyText, outputDir)
           if entryFilename is not '':
              print entryFilename
@@ -170,14 +170,21 @@ def jargonReadExclusions(filename):
       exclusions = fp.readlines()
    fp.close()
 
+   tempExclusions = []
+   for i in range(len(exclusions)):
+      tempExclusions.append(exclusions[i].strip('\n'))
+   exclusions = tempExclusions
+
    return exclusions
 
 def jargonImport(rootDir, excludeEntriesFilename, outputDir):
    exclusions = jargonReadExclusions(excludeEntriesFilename)
+
+   print exclusions
 
    for dirName, subdirList, fileList in os.walk(rootDir):
       for filename in fileList:
          jargonReadFile(dirName + '/' + filename, exclusions, outputDir)
 
 if __name__ == "__main__":
-   jargonImport('../original','','../entries')
+   jargonImport('../original','exclusions.txt','../entries')
