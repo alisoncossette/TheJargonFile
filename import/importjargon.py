@@ -153,7 +153,9 @@ def jargonReadFile(filename, exclusions, outputDir):
        saneBodyText = jargonSaneText(parser.title, parser.bodyText)
        parser.title = jargonSaneTitle(parser.title)
        if not parser.title in exclusions:
-          print jargonCreateEntry(parser.title, saneBodyText, outputDir)
+          entryFilename = jargonCreateEntry(parser.title, saneBodyText, outputDir)
+          if entryFilename is not '':
+             print entryFilename
 
 # read original jargon file entries to be excluded
 def jargonReadExclusions(filename):
