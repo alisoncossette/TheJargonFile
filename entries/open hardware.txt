@@ -1,0 +1,7 @@
+open hardware
+
+Hardware whose design is available under terms comparable to free software.
+That is that the user has the right to study, build and make improvements
+to the hardware design without needing to pay royalties or falling foul of
+counterfeiting or copyright laws.  Early examples of open hardware were
+the Arduino microcontroller and Novena motherboard.
