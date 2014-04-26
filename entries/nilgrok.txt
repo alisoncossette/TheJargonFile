@@ -1,0 +1,4 @@
+nilgrok
+
+The opposite of grok.  To misunderstand something fully.  For example "the
+politician nilgrokked the Streisand effect".
