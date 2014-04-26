@@ -129,7 +129,7 @@ def jargonCreateEntry(title, text, outputDir):
    filename = outputDir
    if not outputDir.endswith('/'):
       filename = filename + '/'
-   filename = filename + jargonSaneTitle(title) + '.txt'
+   filename = filename + title + '.txt'
 
    # don't overwrite existing files
    if os.path.isfile(filename):
@@ -140,7 +140,7 @@ def jargonCreateEntry(title, text, outputDir):
    fp.close
    return filename
 
-def jargonReadFile(filename, outputDir):
+def jargonReadFile(filename, exclusions, outputDir):
     inFile = open(filename)
     buffer = ""
     for line in inFile:
@@ -151,16 +151,31 @@ def jargonReadFile(filename, outputDir):
        parser.bodyText is not '' and \
        len(parser.title) > 1:
        saneBodyText = jargonSaneText(parser.title, parser.bodyText)
-       print jargonCreateEntry(parser.title, saneBodyText, outputDir)
-       #if saneBodyText == "":
-       #print "Title: " + parser.title
-       #   print "Original: " + parser.bodyText
-       #print "Text:  " + saneBodyText + "\n"
+       parser.title = jargonSaneTitle(parser.title)
+       if not parser.title in exclusions:
+          print jargonCreateEntry(parser.title, saneBodyText, outputDir)
+
+# read original jargon file entries to be excluded
+def jargonReadExclusions(filename):
+   if len(filename) == 0:
+      return []
+
+   if not os.path.isfile(filename):
+      return []
+
+   exclusions = []
+   with open(filename) as fp:
+      exclusions = fp.readlines()
+   fp.close()
+
+   return exclusions
 
 def jargonImport(rootDir, excludeEntriesFilename, outputDir):
-    for dirName, subdirList, fileList in os.walk(rootDir):
-        for filename in fileList:
-            jargonReadFile(dirName + '/' + filename, outputDir)
+   exclusions = jargonReadExclusions(excludeEntriesFilename)
+
+   for dirName, subdirList, fileList in os.walk(rootDir):
+      for filename in fileList:
+         jargonReadFile(dirName + '/' + filename, exclusions, outputDir)
 
 if __name__ == "__main__":
-    jargonImport('../original','','../entries')
+   jargonImport('../original','','../entries')
