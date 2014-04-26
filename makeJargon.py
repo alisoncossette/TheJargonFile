@@ -1,5 +1,6 @@
 import os
 import string
+import operator
 
 def jargonParseEntry(filename):
     if not os.path.isfile(filename):
@@ -31,15 +32,16 @@ def jargonGetEntries(entriesDir):
             entry = jargonParseEntry(entriesDir + '/' + filename)
             if entry:
                 entries.append(entry)
+    entries.sort(key=operator.itemgetter(0))
     return entries
 
-def jargonToManpage(manpageFilename, entries):
+def jargonToManpage(manpageFilename, entries, version):
     if not os.path.isdir("man"):
         os.system("mkdir man")
 
     fp = open(manpageFilename,'w')
 
-    fp.write(".TH \"The Jargon File\" 1 \"April 26, 2014\" \"\" \"The Jargon File\"\n\n")
+    fp.write(".TH \"The Jargon File\" 1 \"April 26, 2014\" \"\" \"" + version + "\"\n\n")
 
     for entry in entries:
         title = entry[0]
@@ -55,5 +57,6 @@ def jargonToManpage(manpageFilename, entries):
     print "sudo install -m 644 " + manpageFilename + ".gz /usr/local/share/man/man1"
 
 if __name__ == "__main__":
+    version = "x.xx"
     entries = jargonGetEntries('entries')
-    jargonToManpage("man/jargon.1", entries)
+    jargonToManpage("man/jargon.1", entries, version)
