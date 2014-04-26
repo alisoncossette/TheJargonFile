@@ -21,6 +21,13 @@ def jargonParseEntry(filename):
             if i >= 2:
                 text = text + line[i]
     text = text.replace('\n',' ')
+
+    # remove any gaps
+    pos = text.find('  ')
+    while pos != -1:
+        text = text.replace('  ',' ')
+        pos = text.find('  ')
+
     entry.append(text.strip())
 
     return entry
