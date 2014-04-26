@@ -1,4 +1,5 @@
 glass
 
-n. [IBM] Synonym for silicon.
+1. n. [IBM] Synonym for silicon.
 
+2. n. [Google] An unpopular wearable computing product.
