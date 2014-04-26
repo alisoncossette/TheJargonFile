@@ -1,0 +1,5 @@
+freetard
+
+A derogatory term used to describe supporters of free and open source
+software - particularly if they spend a lot of time berating users
+of proprietary software for their foolish choices.  Also see FOSS.
