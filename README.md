@@ -23,4 +23,4 @@ To install the manpage:
 sudo install -m 644 docs/jargon.1.gz /usr/local/share/man/man1
 ```
 
-The org-mode formatted docuemnt can be found in _docs/jargon-org.txt_
+The org-mode formatted document can be found in _docs/jargon-org.txt_
