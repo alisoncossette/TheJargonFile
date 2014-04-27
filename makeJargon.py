@@ -130,7 +130,7 @@ def jargonToOrgMode(orgFilename, entries, version, publishername):
 
     fp = open(orgFilename,'w')
 
-    fp.write("#+TITLE: The Jaqrgon File\n")
+    fp.write("#+TITLE: The Jargon File\n")
     fp.write("#+VERSION " + version + "\n")
     fp.write("#+OPTIONS: ^:nil\n")
     fp.write("#+STYLE: <link rel=\"stylesheet\" type=\"text/css\" href=\"index.css\" />\n\n")
