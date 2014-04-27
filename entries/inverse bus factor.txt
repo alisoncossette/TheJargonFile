@@ -1,0 +1,6 @@
+inverse bus factor
+
+The opposite of the bus factor for a software project.  This is a number
+which determines how many developers need to be metaphorically run over
+by a bus (i.e. leave the project or stop making commits) before it
+can begin to make progress again.

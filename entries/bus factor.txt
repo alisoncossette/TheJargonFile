@@ -1,0 +1,7 @@
+bus factor
+
+A number defining how many software project team members need to be run
+over by a bus before the project is no longer viable.  If you're running
+an free software or open source project and your bus factor gets too low
+then it may be time to try to recruit more developers.  Also see
+"inverse bus factor".
