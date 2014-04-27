@@ -1,0 +1,9 @@
+persona management system
+
+A system which permits a single human user to manage and control
+multiple semi-automated sock puppets in order to spread government
+and/or corporate propaganda or to interfere with the civic activities of
+netizens.  The persona management system provides back-stories,
+generates plausible looking social media profile pages and allows the
+human operator to quickly familiarize themselves with the current
+talking points and primary targets for disruption.
