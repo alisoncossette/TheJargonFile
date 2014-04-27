@@ -12,9 +12,15 @@ This version of _The Jargon File_ was based upon [version 4.4.7 maintained by Er
 Converting to other formats
 ---------------------------
 
-As a Git repository the file isn't all that useful.  You can export it as a manpage as follows.
+As a Git repository the file isn't all that useful.  You can export it in other formats as follows:
 
 ```bash
 python makeJargon.py
-sudo install -m 644 man/jargon.1.gz /usr/local/share/man/man1
 ```
+To install the manpage:
+
+```bash
+sudo install -m 644 docs/jargon.1.gz /usr/local/share/man/man1
+```
+
+The org-mode formatted docuemnt can be found in _docs/jargon-org.txt_
