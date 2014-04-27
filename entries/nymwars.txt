@@ -1,3 +1,9 @@
 nymwars
 
-[aka "the nymwars"] A series of disputes which arose when Google began enforcing a "real names" policy on its social network system G+ in 2011. Many internet users were accustomed to using nicknames or pseudonyms on forums or on IRC and so objected to the forced imposition of an unfamiliar or unwanted identity.  Google also failed to grok the privacy implications, saying that it did not care about the legitimate uses of pseudonyms to avoid persecution.
+[aka "the nymwars"] A series of disputes which arose when Google began
+enforcing a "real names" policy on its social network system G+ in 2011.
+Many internet users were accustomed to using nicknames or pseudonyms on
+forums or on IRC and so objected to the forced imposition of an
+unfamiliar or unwanted identity.  Google also failed to grok the privacy
+implications, saying that it did not care about the legitimate uses of
+pseudonyms to avoid persecution.

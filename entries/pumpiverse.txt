@@ -1,3 +1,4 @@
 pumpiverse
 
-The federated network of systems based upon the pump.io communications protocol, in the same sense as blogosphere applies to blogs.
+The federated network of systems based upon the pump.io communications
+protocol, in the same sense as blogosphere applies to blogs.
