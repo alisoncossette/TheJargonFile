@@ -1,0 +1,3 @@
+PGP
+
+n. [acronym: Pretty Good Privacy] A system for email content encryption and digital signing originally created by Phil Zimmermann.

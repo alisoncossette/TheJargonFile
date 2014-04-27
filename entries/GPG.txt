@@ -1,0 +1,3 @@
+GPG
+
+n. [acronym: Gnu Privacy Guard] The GNU implementation of PGP.
