@@ -113,7 +113,6 @@ def jargonToManpage(manpageFilename, entries, version, publishername):
 
         fp.write(".SH " + title + "\n")
         fp.write(text + "\n\n")
-
     fp.close()
 
     os.system("gzip " + manpageFilename)
@@ -145,6 +144,7 @@ def jargonToOrgMode(orgFilename, entries, version, publishername):
 
     fp.write("* Glossary\n")
 
+    subsection = ''
     for entry in entries:
         title = entry[0]
         text = entry[1]
@@ -152,7 +152,11 @@ def jargonToOrgMode(orgFilename, entries, version, publishername):
         if definitions > 1:
             text = jargonWithDefinitions(text, definitions)
 
-        fp.write("** " + title + "\n")
+        if title[0:1] != subsection:
+            subsection = title[0:1]
+            fp.write("** " + subsection.upper() + "\n")
+
+        fp.write("*** " + title + "\n")
         fp.write(text + "\n\n")
     fp.close()
 
