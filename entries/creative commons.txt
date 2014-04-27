@@ -1,0 +1,7 @@
+creative commons
+
+[aka "CC"] A set of public licenses similar in spirit to copyleft or
+open source licenses but whose application is to works other than
+software, such as documentation, artwork, audio and video content.
+Creative commons represents the permeation of ideas which began in the
+free software movement into other areas of society.
