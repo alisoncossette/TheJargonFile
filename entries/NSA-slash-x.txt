@@ -1,0 +1,3 @@
+NSA/x
+
+Can be prepended to the names of internet companies or products to indicate their close relationship to the surveillance apparatus, in the style of the familiar combination GNU/Linux.  For example, NSA/Google, NSA/Microsoft, NSA/Gmail.
