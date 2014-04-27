@@ -17,10 +17,10 @@ As a Git repository the file isn't all that useful.  You can export it in other 
 ```bash
 python makeJargon.py
 ```
+All of the resulting documents can be found in the _docs_ subdirectory.  Current formats supported are manpages, HTML and org-mode markup.
+
 To install the manpage:
 
 ```bash
 sudo install -m 644 docs/jargon.1.gz /usr/local/share/man/man1
 ```
-
-The org-mode formatted document can be found in _docs/jargon-org.txt_
