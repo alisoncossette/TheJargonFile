@@ -1,0 +1,8 @@
+megaleak
+
+The leaking or "exfiltration" of a large amount of otherwise private
+information from a military, government, academic or corporate
+organisation.  In the 20th century such leaks would have required an
+improbable amount of photographing or photocopying, but by the early
+21st century industrial quantities of information could be leaked via
+common computer media formats such as DVDs or USB drives.
