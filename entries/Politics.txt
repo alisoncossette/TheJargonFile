@@ -1,11 +1,10 @@
 Politics
 
-Formerly vaguely liberal-moderate, more recently moderate-to-neoconservative
-(hackers too were affected by the collapse of socialism). There is a strong
-libertarian contingent which rejects conventional left-right politics
-entirely. The only safe generalization is that hackers tend to be rather
-anti-authoritarian; thus, both paleoconservatism and hard leftism are rare.
-Hackers are far more likely than most non-hackers to either (a) be
-aggressively apolitical or (b) entertain peculiar or idiosyncratic political
-ideas and actually try to live by them day-to-day.
-
+The only safe generalization is that hackers tend to be rather
+anti-authoritarian, so on a political compass chart they tend
+to be somewhere within the libertarian left or libertarian right
+quadrants.  Since technology impacts upon so many aspects of
+society it is rare for hackers to claim to be entirely apolitical,
+and those that do make such a claim are typically just having
+their viewpoints manipulated by popular media, which invariably
+does have a political agenda.
