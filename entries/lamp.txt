@@ -1,0 +1,3 @@
+LAMP
+
+Also "LAMP stack".  Acronym for Linux Apache MySql Php - a common web server configuration.
