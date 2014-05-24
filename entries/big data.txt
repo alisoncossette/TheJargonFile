@@ -1,0 +1,3 @@
+big data
+
+An utterly nebulous term often used by marketing people.  It usually refers to the processing or analysis of a lot of data, where "a lot" means something considered to be large relative to the current state of technology.  For example, "what is your company's big data strategy?", "in the era of big data...", "are you ready for big data?".  Anyone using the term "big data" in anything other than a mocking sense is typically an idiot.
