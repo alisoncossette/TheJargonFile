@@ -1,0 +1,3 @@
+personal surveillance device
+
+Alternative name for a mobile phone, due to their extensive personal data collection and exfiltration capabilities.
