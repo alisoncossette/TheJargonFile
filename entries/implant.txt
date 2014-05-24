@@ -1,0 +1,3 @@
+implant
+
+n.  1. A piece of hardware retrofitted to a computer for surveillance purposes.  Typical sites include the keyboard and trackpad controller chips.  2. The secret police terminology for malware uploaded to a victim's computer in order to spy on them.
