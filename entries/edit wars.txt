@@ -1,0 +1,3 @@
+edit wars
+
+What happens when multiple users edit a wiki, collaborative document or source code repository at the same time - reverting the others changes or reinstating previous reversions.
