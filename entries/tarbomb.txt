@@ -1,0 +1,3 @@
+tarbomb
+
+n. v. tarbombed/tarbombing.  A tarball archive which when extracted results in a large number of files in the current directory - i.e. appears to "explode".  Ideally, files extracted from a tarball should exist within their own dedicated subdirectory rather than clutter up the current directory.
