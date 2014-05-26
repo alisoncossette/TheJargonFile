@@ -1,0 +1,3 @@
+SIP
+
+Acronym for Session Initiation Protocol.  Typically used for controlling voice communications in a VoIP system.
