@@ -50,7 +50,7 @@ def jargonSubdefinitions(text):
         definitions = 1
 
     # too many definitions
-    if definitions > 5:
+    if definitions > 8:
         definitions  = 0
 
     return definitions
