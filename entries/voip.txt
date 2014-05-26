@@ -1,0 +1,3 @@
+VoIP
+
+Acronym for Voice over Internet Protocol.
