@@ -3,7 +3,7 @@ bot
 n [common on IRC, MUD and among gamers; from robot ] 1. An IRC or MUD user
 who is actually a program. On IRC, typically the robot provides some useful
 service. Examples are NickServ, which tries to prevent random users from
-adopting nick s already claimed by others, and MsgServ, which allows one to
+adopting nicks already claimed by others, and MsgServ, which allows one to
 send asynchronous messages to be delivered when the recipient signs on. Also
 common are annoybots , such as KissServ, which perform no useful function
 except to send cute messages to other people. Service bots are less common
@@ -18,4 +18,3 @@ for a web spider. The file for controlling spider behavior on your site is
 officially the Robots Exclusion File and its URL is http:// somehost
 /robots.txt ) Note that bots in all senses were robots when the terms first
 appeared in the early 1990s, but the shortened form is now habitual.
-

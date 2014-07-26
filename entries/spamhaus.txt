@@ -9,6 +9,5 @@ Usenet as Spam Freedom Day, but lesser imitators of the Spamford still
 infest various murky corners of the net. Since prosecution of spammers
 became routine under the junk-fax laws and statues specifically targeting
 spam, spamhausen have declined in relative importance; today, hit-and-run
-attacks by spammers using relay rape and throwaway account s on reputable
+attacks by spammers using relay rape and throwaway accounts on reputable
 ISPs seem to account for most of the flow.
-

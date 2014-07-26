@@ -8,7 +8,7 @@ eventually just as mainframes. The term carries the connotation of a machine
 designed for batch rather than interactive use, though possibly with an
 interactive timesharing operating system retrofitted onto it; it is
 especially used of machines built by IBM, Unisys, and the other great
-dinosaur s surviving from computing's Stone Age. It has been common wisdom
+dinosaurs surviving from computing's Stone Age. It has been common wisdom
 among hackers since the late 1980s that the mainframe architectural
 tradition is essentially dead (outside of the tiny market for
 number-crunching supercomputers having been swamped by the recent huge
@@ -22,4 +22,3 @@ assisted by IBM produced a resurgence of interest in mainframe computing as
 a way of providing huge quantities of easily maintainable, reliable virtual
 Linux servers, saving IBM's mainframe division from almost certain
 extinction.
-

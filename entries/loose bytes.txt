@@ -1,6 +1,5 @@
 loose bytes
 
-n. Commonwealth hackish term for the padding bytes or shim s many compilers
+n. Commonwealth hackish term for the padding bytes or shims many compilers
 insert between members of a record or structure to cope with alignment
 requirements imposed by the machine architecture.
-

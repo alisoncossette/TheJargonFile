@@ -9,10 +9,10 @@ Kingdom (England, Wales, Scotland, Northern Ireland) Usenet See the Usenet
 entry WPI Worcester Polytechnic Institute, site of a very active community
 of PDP-10 hackers during the 1970s WWW The World-Wide-Web. XEROX PARC
 XEROX's Palo Alto Research Center, site of much pioneering research in user
-interface design and networking Yale Yale University Other etymology s such
+interface design and networking Yale Yale University Other etymologys such
 as Unix and PDP-10 refer to technical cultures surrounding specific
 operating systems, processors, or other environments. The fact that a term
-is labelled with any one of these s does not necessarily mean its use is
+is labelled with any one of theses does not necessarily mean its use is
 confined to that culture. In particular, many terms labelled MIT and
 Stanford are in quite general use. We have tried to give some indication of
 the distribution of speakers in the usage notes; however, a number of
@@ -22,4 +22,3 @@ entries are marked [proposed]. These are usually generalizations suggested
 by editors or Usenet respondents in the process of commenting on previous
 definitions of those entries. These are not represented as established
 jargon. Prev  Up  Next Chapter10.Pronunciation Guide Home Chapter12.
-

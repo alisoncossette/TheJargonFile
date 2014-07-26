@@ -9,8 +9,7 @@ machines anticipated the powerful personal computers of the 1980s by a
 decade. Sadly, the prophets at PARC were without honor in their own company,
 so much so that it became a standard joke to describe PARC as a place that
 specialized in developing brilliant ideas for everyone else. The stunning
-shortsightedness and obtusity of XEROX's top-level suit s has been well
+shortsightedness and obtusity of XEROX's top-level suits has been well
 anatomized in Fumbling The Future: How XEROX Invented, Then Ignored, the
 First Personal Computer by Douglas K. Smith and Robert C. Alexander (William
 Morrow Co., 1988, ISBN 0-688-09511-9).
-

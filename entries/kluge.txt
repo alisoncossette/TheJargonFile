@@ -9,7 +9,7 @@ and verges on being a crock. 3. n. Something that works for the wrong
 reason. 4. vt. To insert a kluge into a program. I've kluged this routine to
 get around that weird bug, but there's probably a better way. 5. [WPI] n. A
 feature that is implemented in a rude manner. Nowadays this term is often
-encountered in the variant spelling kludge. Reports from old fart s are
+encountered in the variant spelling kludge. Reports from old farts are
 consistent that kluge was the original spelling, reported around computers
 as far back as the mid-1950s and, at that time, used exclusively of hardware
 kluges. In 1947, the New York Folklore Quarterly reported a classic
@@ -62,4 +62,3 @@ orally, use it in a restricted negative sense and are at least consistent.
 European hackers have mostly learned the word from written American sources
 and tend to pronounce it /kluhj/ but use the wider American meaning! Some
 observers consider this mess appropriate in view of the word's meaning.
-
