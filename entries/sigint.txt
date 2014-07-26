@@ -2,5 +2,6 @@ SIGINT
 
 Abbrev. Signals Intelligence. Data obtained via espionage or from
 public sources which is used by the secret police of a nation state.
-Hardware or software systems which contain backdoors to facilitate
+Hardware or software systems which contain back doors to facilitate
 covert data collection are described as being "SIGINT enabled".
+Also see back door.
