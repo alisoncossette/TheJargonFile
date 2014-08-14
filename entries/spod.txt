@@ -1,6 +1,6 @@
 spod
 
-n. [UK] 1. A lower form of life found on talker system s and MUD s. The spod
+n. [UK] 1. A lower form of life found on talker systems and MUD s. The spod
 has few friends in RL and uses talkers instead, finding communication easier
 and preferable over the net. He has all the negative traits of the computer
 geek without having any interest in computers per se. Lacking any knowledge
@@ -26,4 +26,3 @@ computers and the internet in general. 3. [Glasgow University] An otherwise
 competent hacker who spends way too much time on talker systems. 4. [obs.]
 An ordinary person; a random. This is the meaning with which the term was
 coined, but the inventor informs us he has himself accepted sense 1.
-

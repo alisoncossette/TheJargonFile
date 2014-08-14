@@ -1,0 +1,13 @@
+App Store
+
+n. An App Store, sometimes also known as a Software Center or Software
+Manager, is a graphical user interface which allows the user to
+conveniently download and install new applications onto their computer
+or mobile device. App Stores can be very convenient but are often
+proprietary and may enable a particular company to control and censor
+what types of application non-technical users may run on their systems
+- typically in accordance with an American west coast morality. App
+stores have sometimes been described as a type of MITM attack on
+software distribution, allowing companies to insert themselves as
+rent-seeking trolls on a virtual toll bridge between the users and
+producers of software.

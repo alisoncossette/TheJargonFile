@@ -3,8 +3,7 @@ DEADBEEF
 /dedbeef/ , n. The hexadecimal word-fill pattern for freshly allocated
 memory under a number of IBM environments, including the RS/6000. Some
 modern debugging tools deliberately fill freed memory with this value as a
-way of converting heisenbug s into Bohr bug s. As in Your program is
+way of converting heisenbugs into Bohr bug s. As in Your program is
 DEADBEEF (meaning gone, aborted, flushed from memory); if you start from an
 odd half-word boundary, of course, you have BEEFDEAD. See also the anecdote
 under fool and dead beef attack.
-

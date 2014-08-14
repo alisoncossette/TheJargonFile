@@ -1,6 +1,6 @@
 GNU
 
-/gnoo/ , not , /noo/ 1. [acronym: GNU s Not Unix!', see recursive acronym ]
+/gnoo/ , not , /noo/ 1. [acronym: GNUs Not Unix!', see recursive acronym ]
 A Unix-workalike development effort of the Free Software Foundation headed
 by Richard Stallman. GNU EMACS and the GNU C compiler, two tools designed
 for this project, have become very popular in hackerdom and elsewhere. The
@@ -15,4 +15,3 @@ Foundation's imprimatur. The GNU project has a web page at
 http://www.gnu.org/. See EMACS , copyleft , General Public Virus , Linux. 2.
 Noted Unix hacker John Gilmore gnu@toad.com }, founder of Usenet's anarchic
 alt.* hierarchy.
-

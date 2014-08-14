@@ -1,0 +1,7 @@
+Man In The Middle (MITM) attack
+
+This is a type of malicious communications interception in which an
+interloper inserts themselves between two communicating parties. The
+motivation for conducting such an attack is typically in order to
+obtain personal, financial or political gain. They may merely collect
+data, or insert their own packets into the conversation.

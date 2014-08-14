@@ -1,7 +1,7 @@
 General Public Virus
 
 n. Pejorative name for some versions of the GNU project copyleft or General
-Public License (GPL), which requires that any tools or app s incorporating
+Public License (GPL), which requires that any tools or apps incorporating
 copylefted code must be source-distributed on the same anti-proprietary
 terms as GNU stuff. Thus it is alleged that the copyleft infects software
 generated with GNU tools, which may in turn infect other software that
@@ -13,4 +13,3 @@ Nevertheless, widespread suspicion that the copyleft language is
 boobytrapped has caused many developers to avoid using GNU tools and the
 GPL. Changes in the language of the version 2.0 GPL did not eliminate this
 problem.
-

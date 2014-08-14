@@ -1,6 +1,6 @@
 elephantine
 
-adj. Used of programs or systems that are both conspicuous hog s (owing
+adj. Used of programs or systems that are both conspicuous hogs (owing
 perhaps to poor design founded on brute force and ignorance ) and
 exceedingly hairy in source form. An elephantine program may be functional
 and even friendly, but (as in the old joke about being in bed with an
@@ -10,4 +10,3 @@ trumpeting sounds or perform expressive proboscatory mime at the mention of
 the offending program. Usage: semi-humorous. Compare has the elephant nature
 and the somewhat more pejorative monstrosity. See also second-system effect
 and baroque.
-

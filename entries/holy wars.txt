@@ -1,6 +1,6 @@
 holy wars
 
-n. [from Usenet , but may predate it; common] n. flame war s over religious
+n. [from Usenet , but may predate it; common] n. flame wars over religious
 issues. The paper by Danny Cohen that popularized the terms big-endian and
 little-endian in connection with the LSB-first/MSB-first controversy was
 entitled On Holy Wars and a Plea for Peace. Great holy wars of the past have
@@ -14,4 +14,3 @@ participants spend their time trying to pass off personal value choices and
 cultural attachments as objective technical evaluations. This happens
 precisely because in a true holy war, the actual substantive differences
 between the sides are relatively minor. See also theology.
-

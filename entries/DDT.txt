@@ -22,7 +22,7 @@ known pesticide, dichloro-diphenyl-trichloroethane C 14 H 9 Cl 5 should be
 minimal since each attacks a different, and apparently mutually exclusive,
 class of bugs. (The tape referred to was, incidentally, not magnetic but
 paper.) Sadly, this quotation was removed from later editions of the
-handbook after the suit s took over and DEC became much more businesslike.
+handbook after the suits took over and DEC became much more businesslike.
 The history above is known to many old-time hackers. But there's more: Peter
 Samson, compiler of the original TMRC lexicon, reports that he named DDT
 after a similar tool on the TX-0 computer, the direct ancestor of the PDP-1
@@ -30,4 +30,3 @@ built at MIT's Lincoln Lab in 1957. The debugger on that ground-breaking
 machine (the first transistorized computer) rejoiced in the name FLIT
 (FLexowriter Interrogation Tape). Flit was for many years the trade-name of
 a popular insecticide.
-

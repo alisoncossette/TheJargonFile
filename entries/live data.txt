@@ -9,6 +9,5 @@ security-breaking virus that is triggered the next time a hapless user
 strikes that key. For another, there are some well-known bugs in vi that
 allow certain texts to send arbitrary commands back to the machine when they
 are simply viewed. 2. In C code, data that includes pointers to function
-hook s (executable code). 3. An object, such as a trampoline , that is
+hooks (executable code). 3. An object, such as a trampoline , that is
 constructed on the fly by a program and intended to be executed as code.
-

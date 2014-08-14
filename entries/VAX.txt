@@ -3,7 +3,7 @@ VAX
 /vaks/ , n. 1. [from Virtual Address eXtension] The most successful
 minicomputer design in industry history, possibly excepting its immediate
 ancestor, the PDP-11. Between its release in 1978 and its eclipse by killer
-micro s after about 1986, the VAX was probably the hacker's favorite machine
+micros after about 1986, the VAX was probably the hacker's favorite machine
 of them all, esp. after the 1982 release of 4.2 BSD Unix (see BSD ).
 Especially noted for its large, assembler-programmer-friendly instruction
 set an asset that became a liability after the RISC revolution. It is worth
@@ -25,4 +25,3 @@ the slogan a sufficiently good idea to copy it. Several British hackers
 report that VAX's promotions used it in 1986--1987, and we have one report
 from a New Zealander that the infamous slogan surfaced there in TV ads for
 the product in 1992.
-

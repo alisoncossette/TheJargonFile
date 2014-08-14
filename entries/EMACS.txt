@@ -20,6 +20,5 @@ Indeed, some hackers find EMACS too heavyweight and baroque for their taste,
 and expand the name as Escape Meta Alt Control Shift to spoof its heavy
 reliance on keystrokes decorated with bucky bits. Other spoof expansions
 include Eight Megabytes And Constantly Swapping (from when that was a lot of
-core ), Eventually malloc () s All Computer Storage , and EMACS Makes A
+core ), Eventually malloc()s All Computer Storage , and EMACS Makes A
 Computer Slow (see recursive acronym ). See also vi.
-

@@ -1,0 +1,5 @@
+JSON
+
+Acronym. JavaScript Object Notation. A human readable data format
+origially created by Douglas Crockford which is typically used to
+transmit information between a browser and a web based server system.

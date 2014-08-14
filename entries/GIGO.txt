@@ -1,7 +1,6 @@
 GIGO
 
-/gi:goh/ 1. Garbage In, Garbage Out usually said in response to luser s who
+/gi:goh/ 1. Garbage In, Garbage Out usually said in response to lusers who
 complain that a program didn't do the right thing when given imperfect input
 or otherwise mistreated in some way. Also commonly used to describe failures
 in human decision making due to faulty, incomplete, or imprecise data. 2.
-

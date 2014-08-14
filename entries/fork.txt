@@ -11,5 +11,4 @@ that largely assembles pieces than can and will be used in other
 distributions without conflict. Forking is uncommon; in fact, it is so
 uncommon that individual instances loom large in hacker folklore. Notable in
 this class were the Emacs/XEmacs , the GCC/EGCS  (later healed by a merger)
-and the  s among the FreeBSD, NetBSD, and OpenBSD operating systems.
-
+and the forks among the FreeBSD, NetBSD, and OpenBSD operating systems.

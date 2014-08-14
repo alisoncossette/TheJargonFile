@@ -17,7 +17,7 @@ communication between humans and linked up in steadily increasing numbers,
 connecting together a quirky mix of academics, techies, hippies, SF fans,
 hackers, and anarchists. The roots of this lexicon lie in those early years.
 Over the next quarter-century the Internet evolved in many ways. The typical
-machine/OS combination moved from DEC PDP-10 s and PDP-20 s, running TOPS-10
+machine/OS combination moved from DEC PDP-10s and PDP-20 s, running TOPS-10
 and TOPS-20 , to PDP-11s and VAX en and Suns running Unix , and in the 1990s
 to Unix on Intel microcomputers. The Internet's protocols grew more capable,
 most notably in the move from NCP/IP to TCP/IP in 1982 and the
@@ -43,4 +43,3 @@ networking after 1980. By 1996 it had become a commonplace even in
 mainstream media to predict that a globally-extended Internet would become
 the key unifying communications technology of the next century. See also the
 network.
-

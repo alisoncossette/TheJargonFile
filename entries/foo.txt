@@ -2,7 +2,7 @@ foo
 
 /foo/ 1. interj. Term of disgust. 2. [very common] Used very generally as a
 sample name for absolutely anything, esp. programs and files (esp. scratch
-files). 3. First on the standard list of metasyntactic variable s used in
+files). 3. First on the standard list of metasyntactic variables used in
 syntax examples. See also bar , baz , qux , quux , garply , waldo , fred ,
 plugh , xyzzy , thud. When foo is used in connection with bar it has
 generally traced to the WWII-era Army slang acronym FUBAR ( Fucked Up Beyond
@@ -76,4 +76,3 @@ would find it difficult to resist elaborating a joke like that, and it is
 not likely 1959's were any less susceptible. Almost the entire staff of what
 later became the MIT AI Lab was involved with TMRC, and the word spread from
 there.
-

@@ -1,6 +1,6 @@
 geek code
 
-n. (also Code of the Geeks ). A set of codes commonly used in sig block s to
+n. (also Code of the Geeks ). A set of codes commonly used in sig blocks to
 broadcast the interests, skills, and aspirations of the poster. Features a G
 at the left margin followed by numerous letter codes, often suffixed with
 plusses or minuses. Because many net users are involved in computer science,
@@ -14,4 +14,3 @@ geek code originated in 1993; it was inspired (according to the inventor) by
 previous bear , smurf and twink style-and-sexual-preference codes from
 lesbian and gay newsgroup s. It has in turn spawned imitators; there is now
 even a Saturn geek code for owners of the Saturn car. See also geek.
-

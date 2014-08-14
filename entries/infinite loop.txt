@@ -1,5 +1,4 @@
 infinite loop
 
-n. One that never terminates (that is, the machine spin s or buzz es forever
+n. One that never terminates (that is, the machine spins or buzz es forever
 and goes catatonic ).
-
