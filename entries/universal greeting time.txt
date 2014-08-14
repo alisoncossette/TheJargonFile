@@ -1,0 +1,7 @@
+universal greeting time
+
+UGT (acronym). A time-agnostic greeting phrase used on IRC channels.
+Since participants on IRC are often international saying "good morning"
+or "good evening" can seem odd if you're not in the same time zone.
+"Good (UGT) morning" or "good morning (UGT)" may be used as a
+substitute, and similar for other times of day.
