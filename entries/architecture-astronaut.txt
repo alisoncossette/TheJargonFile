@@ -1,0 +1,6 @@
+architecture astronaut
+
+Someone who over-designs systems at a highly abstract level, with little or
+no appreciation for how they will be implemented.
+Example: "What should have been a 5-line function was turned into a 10-class
+monstrosity by my architecture astronaut boss."
