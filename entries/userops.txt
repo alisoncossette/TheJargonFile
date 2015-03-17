@@ -1,0 +1,11 @@
+userops
+
+Combination of "user" and "operations". Someone who is not a software
+developer or a systems administrator, but who runs their own internet
+services from a server. This might also be called lightweight systems
+administration, in which software tools make the administration tasks
+simpler and so do not require the traditionally detailed knowledge of
+a systems administrator.
+
+The term was invented by Christopher Allan Webber and Deb Nicholson at
+FOSDEM 2015.
