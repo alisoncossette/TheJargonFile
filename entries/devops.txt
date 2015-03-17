@@ -1,0 +1,5 @@
+devops
+
+Combination of "developer" and "operations". A software developer who also
+does some amount of systems administration, such as installing, configuring
+and maintaining servers.
