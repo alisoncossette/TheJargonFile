@@ -1,0 +1,3 @@
+CNE
+
+Acronym for Computer Network Exploitation. A term used by state-backed spying or military organisations meaning to break into computers on networks and steal data or add malware "implants". Typically the people involved in CNE will not be hackers, but uniformed analysts using off-the-shelf exploit tools often purchased from civilian subcontractors. Also see cracker/cracking/script kiddies.
