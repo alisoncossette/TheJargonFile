@@ -1,0 +1,3 @@
+XMPP
+
+Extensible Messaging and Presence Protocol. A protocol used by instant messaging systems.
