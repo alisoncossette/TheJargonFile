@@ -1,0 +1,9 @@
+literate programming
+
+The practice of embedding source code within a larger quantity of
+documentation written in natural language (typically English).
+The intention is to make the code more readable and to render
+explicit the author's beliefs and intentions as to what the code
+should be doing. Literate program typically involves more elaborated
+explanations than occasional comment lines. It was originally
+proposed by Donald Knuth. Also see self-documenting code.
