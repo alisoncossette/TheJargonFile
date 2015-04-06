@@ -1,0 +1,10 @@
+self-documenting code
+
+The belief that with meaningful variable name choices and uncompromising
+adherence to a coding style the need for comments written in natural
+language (typically English) can be reduced towards zero. This belief
+is in almost all cases false. Hackers are often under the impression
+that what their code does is somehow immediately "obvious" to the
+reader, but this is only the case if others think about the algorithmic
+structure of problems in an identical manner, which in practice almost
+never happens. Also see literate programming.
