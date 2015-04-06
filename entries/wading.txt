@@ -1,0 +1,6 @@
+wading
+
+v. The act of reading through a significant quantity of badly written,
+poorly documented or undocumented source code in the forlorn hope of
+understanding what it does, or was originally intended to do. "I've
+been wading through this, but it's still a meaningless hairball".
