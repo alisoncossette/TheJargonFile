@@ -1,0 +1,4 @@
+OTR
+
+Off The Record messaging. A cryptosystem which is typically layered
+on top of XMPP or IRC protocols to provide additional security.
