@@ -1,0 +1,6 @@
+hackfest
+
+n. A social gathering of hackers at a single location in meatspace,
+typically lasting for no more than a few days. Unlike a conference
+or other meetup the main purpose of a hackfest is to make progress
+on software projects by producing code and/or documentation.
