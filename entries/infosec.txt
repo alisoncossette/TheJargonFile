@@ -1,0 +1,5 @@
+infosec
+
+Abbreviation for Information Security. The art and science of securing
+networked computer systems from crackers, script kiddies and government
+goons.
