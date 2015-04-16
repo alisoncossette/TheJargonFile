@@ -1,3 +1,6 @@
 0-day
 
-/oh-day, zero-day/, n. 1. An exploit for a bug for which no known exploit, report, or patch has been made. As soon as an 0-day exploit is released to the public it is no longer a 0-day. 2. {warez} cracked and distributed the day of the release of the official version.
+/oh-day, zero-day/, n. 1. An exploit for a bug for which no known exploit,
+report, or patch has been made. As soon as an 0-day exploit is released
+to the public it is no longer a 0-day. 2. {warez} cracked and distributed
+the day of the release of the official version.
