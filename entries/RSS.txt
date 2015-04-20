@@ -1,0 +1,7 @@
+RSS
+
+Acronym for Really Simple Syndication. A format often referred to as a
+"feed" for making a summary of a web site available, which can then be
+used by aggregator clients. The intention is to avoid having to manually
+check your favourite sites for new content and instead bring the content
+automatically to you.
