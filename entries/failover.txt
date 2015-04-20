@@ -1,0 +1,6 @@
+failover
+
+Is the capability for a secondary system to take over when the main system
+fails. For example if server A crashes then mirrored server B automatically
+takes over, or if the main internet connection fails then mobile broadband
+might automatically be enabled.
