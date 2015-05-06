@@ -1,0 +1,6 @@
+WTFPL
+
+Acronym. Software license type. This open source license encourages
+hackers to "do what the fuck you want to" with the source code, and
+is arguably the ultimate form of permissive licensing although is
+also unlikely to be legally enforcable.
